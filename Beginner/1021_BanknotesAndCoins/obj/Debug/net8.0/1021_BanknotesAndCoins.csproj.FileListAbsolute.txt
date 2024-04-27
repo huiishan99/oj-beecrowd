@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\1021_BanknotesAndCoins\bin\Debug\net8.0\1021_BanknotesAndCoins.exe
+C:\Users\huiis\Documents\C#_Beecrowd\1021_BanknotesAndCoins\bin\Debug\net8.0\1021_BanknotesAndCoins.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\1021_BanknotesAndCoins\bin\Debug\net8.0\1021_BanknotesAndCoins.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\1021_BanknotesAndCoins\bin\Debug\net8.0\1021_BanknotesAndCoins.dll
+C:\Users\huiis\Documents\C#_Beecrowd\1021_BanknotesAndCoins\bin\Debug\net8.0\1021_BanknotesAndCoins.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\1021_BanknotesAndCoins\obj\Debug\net8.0\1021_BanknotesAndCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\1021_BanknotesAndCoins\obj\Debug\net8.0\1021_BanknotesAndCoins.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\1021_BanknotesAndCoins\obj\Debug\net8.0\1021_BanknotesAndCoins.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\1021_BanknotesAndCoins\obj\Debug\net8.0\1021_BanknotesAndCoins.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\1021_BanknotesAndCoins\obj\Debug\net8.0\1021_BanknotesAndCoins.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\1021_BanknotesAndCoins\obj\Debug\net8.0\1021_BanknotesAndCoins.dll
+C:\Users\huiis\Documents\C#_Beecrowd\1021_BanknotesAndCoins\obj\Debug\net8.0\refint\1021_BanknotesAndCoins.dll
+C:\Users\huiis\Documents\C#_Beecrowd\1021_BanknotesAndCoins\obj\Debug\net8.0\1021_BanknotesAndCoins.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\1021_BanknotesAndCoins\obj\Debug\net8.0\1021_BanknotesAndCoins.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\1021_BanknotesAndCoins\obj\Debug\net8.0\ref\1021_BanknotesAndCoins.dll

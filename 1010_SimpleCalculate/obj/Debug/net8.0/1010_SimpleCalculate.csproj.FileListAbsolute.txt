@@ -1,0 +1,14 @@
+C:\Users\huiis\Documents\C#_Beecrowd\1010_SimpleCalculate\bin\Debug\net8.0\1010_SimpleCalculate.exe
+C:\Users\huiis\Documents\C#_Beecrowd\1010_SimpleCalculate\bin\Debug\net8.0\1010_SimpleCalculate.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\1010_SimpleCalculate\bin\Debug\net8.0\1010_SimpleCalculate.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\1010_SimpleCalculate\bin\Debug\net8.0\1010_SimpleCalculate.dll
+C:\Users\huiis\Documents\C#_Beecrowd\1010_SimpleCalculate\bin\Debug\net8.0\1010_SimpleCalculate.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\1010_SimpleCalculate\obj\Debug\net8.0\1010_SimpleCalculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\1010_SimpleCalculate\obj\Debug\net8.0\1010_SimpleCalculate.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\1010_SimpleCalculate\obj\Debug\net8.0\1010_SimpleCalculate.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\1010_SimpleCalculate\obj\Debug\net8.0\1010_SimpleCalculate.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\1010_SimpleCalculate\obj\Debug\net8.0\1010_SimpleCalculate.dll
+C:\Users\huiis\Documents\C#_Beecrowd\1010_SimpleCalculate\obj\Debug\net8.0\refint\1010_SimpleCalculate.dll
+C:\Users\huiis\Documents\C#_Beecrowd\1010_SimpleCalculate\obj\Debug\net8.0\1010_SimpleCalculate.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\1010_SimpleCalculate\obj\Debug\net8.0\1010_SimpleCalculate.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\1010_SimpleCalculate\obj\Debug\net8.0\ref\1010_SimpleCalculate.dll

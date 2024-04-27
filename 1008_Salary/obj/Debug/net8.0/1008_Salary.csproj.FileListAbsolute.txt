@@ -1,0 +1,14 @@
+C:\Users\huiis\Documents\C#_Beecrowd\1008_Salary\bin\Debug\net8.0\1008_Salary.exe
+C:\Users\huiis\Documents\C#_Beecrowd\1008_Salary\bin\Debug\net8.0\1008_Salary.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\1008_Salary\bin\Debug\net8.0\1008_Salary.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\1008_Salary\bin\Debug\net8.0\1008_Salary.dll
+C:\Users\huiis\Documents\C#_Beecrowd\1008_Salary\bin\Debug\net8.0\1008_Salary.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\1008_Salary\obj\Debug\net8.0\1008_Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\1008_Salary\obj\Debug\net8.0\1008_Salary.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\1008_Salary\obj\Debug\net8.0\1008_Salary.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\1008_Salary\obj\Debug\net8.0\1008_Salary.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\1008_Salary\obj\Debug\net8.0\1008_Salary.dll
+C:\Users\huiis\Documents\C#_Beecrowd\1008_Salary\obj\Debug\net8.0\refint\1008_Salary.dll
+C:\Users\huiis\Documents\C#_Beecrowd\1008_Salary\obj\Debug\net8.0\1008_Salary.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\1008_Salary\obj\Debug\net8.0\1008_Salary.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\1008_Salary\obj\Debug\net8.0\ref\1008_Salary.dll

@@ -1,0 +1,14 @@
+C:\Users\huiis\Documents\C#_Beecrowd\1000_HelloWorld\bin\Debug\net8.0\1000_HelloWorld.exe
+C:\Users\huiis\Documents\C#_Beecrowd\1000_HelloWorld\bin\Debug\net8.0\1000_HelloWorld.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\1000_HelloWorld\bin\Debug\net8.0\1000_HelloWorld.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\1000_HelloWorld\bin\Debug\net8.0\1000_HelloWorld.dll
+C:\Users\huiis\Documents\C#_Beecrowd\1000_HelloWorld\bin\Debug\net8.0\1000_HelloWorld.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\1000_HelloWorld\obj\Debug\net8.0\1000_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\1000_HelloWorld\obj\Debug\net8.0\1000_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\1000_HelloWorld\obj\Debug\net8.0\1000_HelloWorld.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\1000_HelloWorld\obj\Debug\net8.0\1000_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\1000_HelloWorld\obj\Debug\net8.0\1000_HelloWorld.dll
+C:\Users\huiis\Documents\C#_Beecrowd\1000_HelloWorld\obj\Debug\net8.0\refint\1000_HelloWorld.dll
+C:\Users\huiis\Documents\C#_Beecrowd\1000_HelloWorld\obj\Debug\net8.0\1000_HelloWorld.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\1000_HelloWorld\obj\Debug\net8.0\1000_HelloWorld.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\1000_HelloWorld\obj\Debug\net8.0\ref\1000_HelloWorld.dll

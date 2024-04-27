@@ -1,0 +1,14 @@
+C:\Users\huiis\Documents\C#_Beecrowd\1006_Average2\bin\Debug\net8.0\1006_Average2.exe
+C:\Users\huiis\Documents\C#_Beecrowd\1006_Average2\bin\Debug\net8.0\1006_Average2.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\1006_Average2\bin\Debug\net8.0\1006_Average2.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\1006_Average2\bin\Debug\net8.0\1006_Average2.dll
+C:\Users\huiis\Documents\C#_Beecrowd\1006_Average2\bin\Debug\net8.0\1006_Average2.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\1006_Average2\obj\Debug\net8.0\1006_Average2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\1006_Average2\obj\Debug\net8.0\1006_Average2.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\1006_Average2\obj\Debug\net8.0\1006_Average2.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\1006_Average2\obj\Debug\net8.0\1006_Average2.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\1006_Average2\obj\Debug\net8.0\1006_Average2.dll
+C:\Users\huiis\Documents\C#_Beecrowd\1006_Average2\obj\Debug\net8.0\refint\1006_Average2.dll
+C:\Users\huiis\Documents\C#_Beecrowd\1006_Average2\obj\Debug\net8.0\1006_Average2.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\1006_Average2\obj\Debug\net8.0\1006_Average2.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\1006_Average2\obj\Debug\net8.0\ref\1006_Average2.dll

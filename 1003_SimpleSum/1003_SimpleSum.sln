@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1003_SimpleSum", "1003_SimpleSum.csproj", "{603B1E46-47AB-482E-B929-25274DAB9C56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603B1E46-47AB-482E-B929-25274DAB9C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603B1E46-47AB-482E-B929-25274DAB9C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603B1E46-47AB-482E-B929-25274DAB9C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603B1E46-47AB-482E-B929-25274DAB9C56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

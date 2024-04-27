@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1036_BhaskaraSFormula\bin\Debug\net8.0\1036_BhaskaraSFormula.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1036_BhaskaraSFormula\bin\Debug\net8.0\1036_BhaskaraSFormula.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1036_BhaskaraSFormula\bin\Debug\net8.0\1036_BhaskaraSFormula.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1036_BhaskaraSFormula\bin\Debug\net8.0\1036_BhaskaraSFormula.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1036_BhaskaraSFormula\bin\Debug\net8.0\1036_BhaskaraSFormula.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1036_BhaskaraSFormula\obj\Debug\net8.0\1036_BhaskaraSFormula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1036_BhaskaraSFormula\obj\Debug\net8.0\1036_BhaskaraSFormula.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1036_BhaskaraSFormula\obj\Debug\net8.0\1036_BhaskaraSFormula.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1036_BhaskaraSFormula\obj\Debug\net8.0\1036_BhaskaraSFormula.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1036_BhaskaraSFormula\obj\Debug\net8.0\1036_BhaskaraSFormula.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1036_BhaskaraSFormula\obj\Debug\net8.0\1036_BhaskaraSFormula.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1036_BhaskaraSFormula\obj\Debug\net8.0\refint\1036_BhaskaraSFormula.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1036_BhaskaraSFormula\obj\Debug\net8.0\1036_BhaskaraSFormula.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1036_BhaskaraSFormula\obj\Debug\net8.0\1036_BhaskaraSFormula.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1036_BhaskaraSFormula\obj\Debug\net8.0\ref\1036_BhaskaraSFormula.dll

@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1037_Interval\bin\Debug\net8.0\1037_Interval.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1037_Interval\bin\Debug\net8.0\1037_Interval.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1037_Interval\bin\Debug\net8.0\1037_Interval.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1037_Interval\bin\Debug\net8.0\1037_Interval.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1037_Interval\bin\Debug\net8.0\1037_Interval.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1037_Interval\obj\Debug\net8.0\1037_Interval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1037_Interval\obj\Debug\net8.0\1037_Interval.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1037_Interval\obj\Debug\net8.0\1037_Interval.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1037_Interval\obj\Debug\net8.0\1037_Interval.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1037_Interval\obj\Debug\net8.0\1037_Interval.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1037_Interval\obj\Debug\net8.0\1037_Interval.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1037_Interval\obj\Debug\net8.0\refint\1037_Interval.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1037_Interval\obj\Debug\net8.0\1037_Interval.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1037_Interval\obj\Debug\net8.0\1037_Interval.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1037_Interval\obj\Debug\net8.0\ref\1037_Interval.dll

@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1073_EvenSquare\bin\Debug\net8.0\1073_EvenSquare.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1073_EvenSquare\bin\Debug\net8.0\1073_EvenSquare.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1073_EvenSquare\bin\Debug\net8.0\1073_EvenSquare.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1073_EvenSquare\bin\Debug\net8.0\1073_EvenSquare.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1073_EvenSquare\bin\Debug\net8.0\1073_EvenSquare.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1073_EvenSquare\obj\Debug\net8.0\1073_EvenSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1073_EvenSquare\obj\Debug\net8.0\1073_EvenSquare.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1073_EvenSquare\obj\Debug\net8.0\1073_EvenSquare.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1073_EvenSquare\obj\Debug\net8.0\1073_EvenSquare.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1073_EvenSquare\obj\Debug\net8.0\1073_EvenSquare.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1073_EvenSquare\obj\Debug\net8.0\1073_EvenSquare.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1073_EvenSquare\obj\Debug\net8.0\refint\1073_EvenSquare.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1073_EvenSquare\obj\Debug\net8.0\1073_EvenSquare.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1073_EvenSquare\obj\Debug\net8.0\1073_EvenSquare.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1073_EvenSquare\obj\Debug\net8.0\ref\1073_EvenSquare.dll

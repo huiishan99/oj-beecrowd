@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1075_Remaining2\bin\Debug\net8.0\1075_Remaining2.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1075_Remaining2\bin\Debug\net8.0\1075_Remaining2.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1075_Remaining2\bin\Debug\net8.0\1075_Remaining2.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1075_Remaining2\bin\Debug\net8.0\1075_Remaining2.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1075_Remaining2\bin\Debug\net8.0\1075_Remaining2.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1075_Remaining2\obj\Debug\net8.0\1075_Remaining2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1075_Remaining2\obj\Debug\net8.0\1075_Remaining2.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1075_Remaining2\obj\Debug\net8.0\1075_Remaining2.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1075_Remaining2\obj\Debug\net8.0\1075_Remaining2.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1075_Remaining2\obj\Debug\net8.0\1075_Remaining2.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1075_Remaining2\obj\Debug\net8.0\1075_Remaining2.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1075_Remaining2\obj\Debug\net8.0\refint\1075_Remaining2.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1075_Remaining2\obj\Debug\net8.0\1075_Remaining2.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1075_Remaining2\obj\Debug\net8.0\1075_Remaining2.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1075_Remaining2\obj\Debug\net8.0\ref\1075_Remaining2.dll

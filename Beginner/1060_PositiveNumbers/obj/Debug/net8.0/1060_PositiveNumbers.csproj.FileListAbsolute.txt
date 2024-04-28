@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1060_PositiveNumbers\bin\Debug\net8.0\1060_PositiveNumbers.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1060_PositiveNumbers\bin\Debug\net8.0\1060_PositiveNumbers.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1060_PositiveNumbers\bin\Debug\net8.0\1060_PositiveNumbers.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1060_PositiveNumbers\bin\Debug\net8.0\1060_PositiveNumbers.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1060_PositiveNumbers\bin\Debug\net8.0\1060_PositiveNumbers.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1060_PositiveNumbers\obj\Debug\net8.0\1060_PositiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1060_PositiveNumbers\obj\Debug\net8.0\1060_PositiveNumbers.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1060_PositiveNumbers\obj\Debug\net8.0\1060_PositiveNumbers.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1060_PositiveNumbers\obj\Debug\net8.0\1060_PositiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1060_PositiveNumbers\obj\Debug\net8.0\1060_PositiveNumbers.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1060_PositiveNumbers\obj\Debug\net8.0\1060_PositiveNumbers.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1060_PositiveNumbers\obj\Debug\net8.0\refint\1060_PositiveNumbers.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1060_PositiveNumbers\obj\Debug\net8.0\1060_PositiveNumbers.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1060_PositiveNumbers\obj\Debug\net8.0\1060_PositiveNumbers.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1060_PositiveNumbers\obj\Debug\net8.0\ref\1060_PositiveNumbers.dll

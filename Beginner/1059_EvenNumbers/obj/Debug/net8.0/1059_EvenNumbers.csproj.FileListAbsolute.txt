@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1059_EvenNumbers\bin\Debug\net8.0\1059_EvenNumbers.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1059_EvenNumbers\bin\Debug\net8.0\1059_EvenNumbers.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1059_EvenNumbers\bin\Debug\net8.0\1059_EvenNumbers.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1059_EvenNumbers\bin\Debug\net8.0\1059_EvenNumbers.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1059_EvenNumbers\bin\Debug\net8.0\1059_EvenNumbers.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1059_EvenNumbers\obj\Debug\net8.0\1059_EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1059_EvenNumbers\obj\Debug\net8.0\1059_EvenNumbers.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1059_EvenNumbers\obj\Debug\net8.0\1059_EvenNumbers.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1059_EvenNumbers\obj\Debug\net8.0\1059_EvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1059_EvenNumbers\obj\Debug\net8.0\1059_EvenNumbers.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1059_EvenNumbers\obj\Debug\net8.0\1059_EvenNumbers.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1059_EvenNumbers\obj\Debug\net8.0\refint\1059_EvenNumbers.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1059_EvenNumbers\obj\Debug\net8.0\1059_EvenNumbers.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1059_EvenNumbers\obj\Debug\net8.0\1059_EvenNumbers.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1059_EvenNumbers\obj\Debug\net8.0\ref\1059_EvenNumbers.dll

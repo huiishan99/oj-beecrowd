@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1070_SixOddNumbers\bin\Debug\net8.0\1070_SixOddNumbers.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1070_SixOddNumbers\bin\Debug\net8.0\1070_SixOddNumbers.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1070_SixOddNumbers\bin\Debug\net8.0\1070_SixOddNumbers.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1070_SixOddNumbers\bin\Debug\net8.0\1070_SixOddNumbers.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1070_SixOddNumbers\bin\Debug\net8.0\1070_SixOddNumbers.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1070_SixOddNumbers\obj\Debug\net8.0\1070_SixOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1070_SixOddNumbers\obj\Debug\net8.0\1070_SixOddNumbers.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1070_SixOddNumbers\obj\Debug\net8.0\1070_SixOddNumbers.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1070_SixOddNumbers\obj\Debug\net8.0\1070_SixOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1070_SixOddNumbers\obj\Debug\net8.0\1070_SixOddNumbers.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1070_SixOddNumbers\obj\Debug\net8.0\1070_SixOddNumbers.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1070_SixOddNumbers\obj\Debug\net8.0\refint\1070_SixOddNumbers.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1070_SixOddNumbers\obj\Debug\net8.0\1070_SixOddNumbers.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1070_SixOddNumbers\obj\Debug\net8.0\1070_SixOddNumbers.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1070_SixOddNumbers\obj\Debug\net8.0\ref\1070_SixOddNumbers.dll

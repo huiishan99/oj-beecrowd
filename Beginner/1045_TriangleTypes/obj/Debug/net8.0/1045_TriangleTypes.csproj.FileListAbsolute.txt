@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1045_TriangleTypes\bin\Debug\net8.0\1045_TriangleTypes.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1045_TriangleTypes\bin\Debug\net8.0\1045_TriangleTypes.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1045_TriangleTypes\bin\Debug\net8.0\1045_TriangleTypes.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1045_TriangleTypes\bin\Debug\net8.0\1045_TriangleTypes.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1045_TriangleTypes\bin\Debug\net8.0\1045_TriangleTypes.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1045_TriangleTypes\obj\Debug\net8.0\1045_TriangleTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1045_TriangleTypes\obj\Debug\net8.0\1045_TriangleTypes.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1045_TriangleTypes\obj\Debug\net8.0\1045_TriangleTypes.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1045_TriangleTypes\obj\Debug\net8.0\1045_TriangleTypes.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1045_TriangleTypes\obj\Debug\net8.0\1045_TriangleTypes.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1045_TriangleTypes\obj\Debug\net8.0\1045_TriangleTypes.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1045_TriangleTypes\obj\Debug\net8.0\refint\1045_TriangleTypes.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1045_TriangleTypes\obj\Debug\net8.0\1045_TriangleTypes.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1045_TriangleTypes\obj\Debug\net8.0\1045_TriangleTypes.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1045_TriangleTypes\obj\Debug\net8.0\ref\1045_TriangleTypes.dll

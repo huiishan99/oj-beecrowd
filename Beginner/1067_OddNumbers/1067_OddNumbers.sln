@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1067_OddNumbers", "1067_OddNumbers.csproj", "{F4156EC6-F489-4293-9A27-A9BD63BB2E3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4156EC6-F489-4293-9A27-A9BD63BB2E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4156EC6-F489-4293-9A27-A9BD63BB2E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4156EC6-F489-4293-9A27-A9BD63BB2E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4156EC6-F489-4293-9A27-A9BD63BB2E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

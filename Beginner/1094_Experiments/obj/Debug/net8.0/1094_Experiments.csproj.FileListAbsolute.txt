@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1094_Experiments\bin\Debug\net8.0\1094_Experiments.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1094_Experiments\bin\Debug\net8.0\1094_Experiments.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1094_Experiments\bin\Debug\net8.0\1094_Experiments.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1094_Experiments\bin\Debug\net8.0\1094_Experiments.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1094_Experiments\bin\Debug\net8.0\1094_Experiments.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1094_Experiments\obj\Debug\net8.0\1094_Experiments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1094_Experiments\obj\Debug\net8.0\1094_Experiments.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1094_Experiments\obj\Debug\net8.0\1094_Experiments.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1094_Experiments\obj\Debug\net8.0\1094_Experiments.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1094_Experiments\obj\Debug\net8.0\1094_Experiments.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1094_Experiments\obj\Debug\net8.0\1094_Experiments.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1094_Experiments\obj\Debug\net8.0\refint\1094_Experiments.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1094_Experiments\obj\Debug\net8.0\1094_Experiments.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1094_Experiments\obj\Debug\net8.0\1094_Experiments.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1094_Experiments\obj\Debug\net8.0\ref\1094_Experiments.dll

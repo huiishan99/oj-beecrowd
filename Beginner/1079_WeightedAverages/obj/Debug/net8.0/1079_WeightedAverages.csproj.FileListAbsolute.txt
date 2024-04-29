@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1079_WeightedAverages\bin\Debug\net8.0\1079_WeightedAverages.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1079_WeightedAverages\bin\Debug\net8.0\1079_WeightedAverages.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1079_WeightedAverages\bin\Debug\net8.0\1079_WeightedAverages.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1079_WeightedAverages\bin\Debug\net8.0\1079_WeightedAverages.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1079_WeightedAverages\bin\Debug\net8.0\1079_WeightedAverages.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1079_WeightedAverages\obj\Debug\net8.0\1079_WeightedAverages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1079_WeightedAverages\obj\Debug\net8.0\1079_WeightedAverages.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1079_WeightedAverages\obj\Debug\net8.0\1079_WeightedAverages.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1079_WeightedAverages\obj\Debug\net8.0\1079_WeightedAverages.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1079_WeightedAverages\obj\Debug\net8.0\1079_WeightedAverages.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1079_WeightedAverages\obj\Debug\net8.0\1079_WeightedAverages.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1079_WeightedAverages\obj\Debug\net8.0\refint\1079_WeightedAverages.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1079_WeightedAverages\obj\Debug\net8.0\1079_WeightedAverages.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1079_WeightedAverages\obj\Debug\net8.0\1079_WeightedAverages.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1079_WeightedAverages\obj\Debug\net8.0\ref\1079_WeightedAverages.dll

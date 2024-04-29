@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1097_SequenceIJ3\bin\Debug\net8.0\1097_SequenceIJ3.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1097_SequenceIJ3\bin\Debug\net8.0\1097_SequenceIJ3.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1097_SequenceIJ3\bin\Debug\net8.0\1097_SequenceIJ3.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1097_SequenceIJ3\bin\Debug\net8.0\1097_SequenceIJ3.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1097_SequenceIJ3\bin\Debug\net8.0\1097_SequenceIJ3.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1097_SequenceIJ3\obj\Debug\net8.0\1097_SequenceIJ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1097_SequenceIJ3\obj\Debug\net8.0\1097_SequenceIJ3.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1097_SequenceIJ3\obj\Debug\net8.0\1097_SequenceIJ3.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1097_SequenceIJ3\obj\Debug\net8.0\1097_SequenceIJ3.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1097_SequenceIJ3\obj\Debug\net8.0\1097_SequenceIJ3.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1097_SequenceIJ3\obj\Debug\net8.0\1097_SequenceIJ3.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1097_SequenceIJ3\obj\Debug\net8.0\refint\1097_SequenceIJ3.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1097_SequenceIJ3\obj\Debug\net8.0\1097_SequenceIJ3.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1097_SequenceIJ3\obj\Debug\net8.0\1097_SequenceIJ3.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1097_SequenceIJ3\obj\Debug\net8.0\ref\1097_SequenceIJ3.dll

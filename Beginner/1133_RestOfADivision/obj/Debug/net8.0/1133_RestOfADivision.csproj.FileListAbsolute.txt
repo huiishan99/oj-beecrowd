@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1133_RestOfADivision\bin\Debug\net8.0\1133_RestOfADivision.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1133_RestOfADivision\bin\Debug\net8.0\1133_RestOfADivision.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1133_RestOfADivision\bin\Debug\net8.0\1133_RestOfADivision.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1133_RestOfADivision\bin\Debug\net8.0\1133_RestOfADivision.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1133_RestOfADivision\bin\Debug\net8.0\1133_RestOfADivision.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1133_RestOfADivision\obj\Debug\net8.0\1133_RestOfADivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1133_RestOfADivision\obj\Debug\net8.0\1133_RestOfADivision.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1133_RestOfADivision\obj\Debug\net8.0\1133_RestOfADivision.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1133_RestOfADivision\obj\Debug\net8.0\1133_RestOfADivision.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1133_RestOfADivision\obj\Debug\net8.0\1133_RestOfADivision.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1133_RestOfADivision\obj\Debug\net8.0\1133_RestOfADivision.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1133_RestOfADivision\obj\Debug\net8.0\refint\1133_RestOfADivision.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1133_RestOfADivision\obj\Debug\net8.0\1133_RestOfADivision.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1133_RestOfADivision\obj\Debug\net8.0\1133_RestOfADivision.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1133_RestOfADivision\obj\Debug\net8.0\ref\1133_RestOfADivision.dll

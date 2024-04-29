@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1118_SeveralScoresWithValidation\bin\Debug\net8.0\1118_SeveralScoresWithValidation.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1118_SeveralScoresWithValidation\bin\Debug\net8.0\1118_SeveralScoresWithValidation.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1118_SeveralScoresWithValidation\bin\Debug\net8.0\1118_SeveralScoresWithValidation.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1118_SeveralScoresWithValidation\bin\Debug\net8.0\1118_SeveralScoresWithValidation.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1118_SeveralScoresWithValidation\bin\Debug\net8.0\1118_SeveralScoresWithValidation.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1118_SeveralScoresWithValidation\obj\Debug\net8.0\1118_SeveralScoresWithValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1118_SeveralScoresWithValidation\obj\Debug\net8.0\1118_SeveralScoresWithValidation.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1118_SeveralScoresWithValidation\obj\Debug\net8.0\1118_SeveralScoresWithValidation.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1118_SeveralScoresWithValidation\obj\Debug\net8.0\1118_SeveralScoresWithValidation.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1118_SeveralScoresWithValidation\obj\Debug\net8.0\1118_SeveralScoresWithValidation.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1118_SeveralScoresWithValidation\obj\Debug\net8.0\1118_SeveralScoresWithValidation.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1118_SeveralScoresWithValidation\obj\Debug\net8.0\refint\1118_SeveralScoresWithValidation.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1118_SeveralScoresWithValidation\obj\Debug\net8.0\1118_SeveralScoresWithValidation.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1118_SeveralScoresWithValidation\obj\Debug\net8.0\1118_SeveralScoresWithValidation.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1118_SeveralScoresWithValidation\obj\Debug\net8.0\ref\1118_SeveralScoresWithValidation.dll

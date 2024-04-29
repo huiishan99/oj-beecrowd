@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1131_Grenais\bin\Debug\net8.0\1131_Grenais.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1131_Grenais\bin\Debug\net8.0\1131_Grenais.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1131_Grenais\bin\Debug\net8.0\1131_Grenais.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1131_Grenais\bin\Debug\net8.0\1131_Grenais.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1131_Grenais\bin\Debug\net8.0\1131_Grenais.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1131_Grenais\obj\Debug\net8.0\1131_Grenais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1131_Grenais\obj\Debug\net8.0\1131_Grenais.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1131_Grenais\obj\Debug\net8.0\1131_Grenais.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1131_Grenais\obj\Debug\net8.0\1131_Grenais.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1131_Grenais\obj\Debug\net8.0\1131_Grenais.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1131_Grenais\obj\Debug\net8.0\1131_Grenais.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1131_Grenais\obj\Debug\net8.0\refint\1131_Grenais.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1131_Grenais\obj\Debug\net8.0\1131_Grenais.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1131_Grenais\obj\Debug\net8.0\1131_Grenais.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1131_Grenais\obj\Debug\net8.0\ref\1131_Grenais.dll

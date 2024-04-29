@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1117_ScoreValidation\bin\Debug\net8.0\1117_ScoreValidation.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1117_ScoreValidation\bin\Debug\net8.0\1117_ScoreValidation.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1117_ScoreValidation\bin\Debug\net8.0\1117_ScoreValidation.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1117_ScoreValidation\bin\Debug\net8.0\1117_ScoreValidation.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1117_ScoreValidation\bin\Debug\net8.0\1117_ScoreValidation.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1117_ScoreValidation\obj\Debug\net8.0\1117_ScoreValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1117_ScoreValidation\obj\Debug\net8.0\1117_ScoreValidation.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1117_ScoreValidation\obj\Debug\net8.0\1117_ScoreValidation.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1117_ScoreValidation\obj\Debug\net8.0\1117_ScoreValidation.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1117_ScoreValidation\obj\Debug\net8.0\1117_ScoreValidation.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1117_ScoreValidation\obj\Debug\net8.0\1117_ScoreValidation.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1117_ScoreValidation\obj\Debug\net8.0\refint\1117_ScoreValidation.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1117_ScoreValidation\obj\Debug\net8.0\1117_ScoreValidation.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1117_ScoreValidation\obj\Debug\net8.0\1117_ScoreValidation.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1117_ScoreValidation\obj\Debug\net8.0\ref\1117_ScoreValidation.dll

@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1116_DividingXByY\bin\Debug\net8.0\1116_DividingXByY.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1116_DividingXByY\bin\Debug\net8.0\1116_DividingXByY.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1116_DividingXByY\bin\Debug\net8.0\1116_DividingXByY.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1116_DividingXByY\bin\Debug\net8.0\1116_DividingXByY.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1116_DividingXByY\bin\Debug\net8.0\1116_DividingXByY.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1116_DividingXByY\obj\Debug\net8.0\1116_DividingXByY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1116_DividingXByY\obj\Debug\net8.0\1116_DividingXByY.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1116_DividingXByY\obj\Debug\net8.0\1116_DividingXByY.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1116_DividingXByY\obj\Debug\net8.0\1116_DividingXByY.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1116_DividingXByY\obj\Debug\net8.0\1116_DividingXByY.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1116_DividingXByY\obj\Debug\net8.0\1116_DividingXByY.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1116_DividingXByY\obj\Debug\net8.0\refint\1116_DividingXByY.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1116_DividingXByY\obj\Debug\net8.0\1116_DividingXByY.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1116_DividingXByY\obj\Debug\net8.0\1116_DividingXByY.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1116_DividingXByY\obj\Debug\net8.0\ref\1116_DividingXByY.dll

@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1143_SquaredAndCubic\bin\Debug\net8.0\1143_SquaredAndCubic.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1143_SquaredAndCubic\bin\Debug\net8.0\1143_SquaredAndCubic.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1143_SquaredAndCubic\bin\Debug\net8.0\1143_SquaredAndCubic.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1143_SquaredAndCubic\bin\Debug\net8.0\1143_SquaredAndCubic.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1143_SquaredAndCubic\bin\Debug\net8.0\1143_SquaredAndCubic.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1143_SquaredAndCubic\obj\Debug\net8.0\1143_SquaredAndCubic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1143_SquaredAndCubic\obj\Debug\net8.0\1143_SquaredAndCubic.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1143_SquaredAndCubic\obj\Debug\net8.0\1143_SquaredAndCubic.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1143_SquaredAndCubic\obj\Debug\net8.0\1143_SquaredAndCubic.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1143_SquaredAndCubic\obj\Debug\net8.0\1143_SquaredAndCubic.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1143_SquaredAndCubic\obj\Debug\net8.0\1143_SquaredAndCubic.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1143_SquaredAndCubic\obj\Debug\net8.0\refint\1143_SquaredAndCubic.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1143_SquaredAndCubic\obj\Debug\net8.0\1143_SquaredAndCubic.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1143_SquaredAndCubic\obj\Debug\net8.0\1143_SquaredAndCubic.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1143_SquaredAndCubic\obj\Debug\net8.0\ref\1143_SquaredAndCubic.dll

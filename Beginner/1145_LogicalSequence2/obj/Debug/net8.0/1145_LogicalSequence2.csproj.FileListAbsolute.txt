@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1145_LogicalSequence2\bin\Debug\net8.0\1145_LogicalSequence2.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1145_LogicalSequence2\bin\Debug\net8.0\1145_LogicalSequence2.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1145_LogicalSequence2\bin\Debug\net8.0\1145_LogicalSequence2.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1145_LogicalSequence2\bin\Debug\net8.0\1145_LogicalSequence2.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1145_LogicalSequence2\bin\Debug\net8.0\1145_LogicalSequence2.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1145_LogicalSequence2\obj\Debug\net8.0\1145_LogicalSequence2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1145_LogicalSequence2\obj\Debug\net8.0\1145_LogicalSequence2.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1145_LogicalSequence2\obj\Debug\net8.0\1145_LogicalSequence2.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1145_LogicalSequence2\obj\Debug\net8.0\1145_LogicalSequence2.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1145_LogicalSequence2\obj\Debug\net8.0\1145_LogicalSequence2.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1145_LogicalSequence2\obj\Debug\net8.0\1145_LogicalSequence2.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1145_LogicalSequence2\obj\Debug\net8.0\refint\1145_LogicalSequence2.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1145_LogicalSequence2\obj\Debug\net8.0\1145_LogicalSequence2.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1145_LogicalSequence2\obj\Debug\net8.0\1145_LogicalSequence2.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1145_LogicalSequence2\obj\Debug\net8.0\ref\1145_LogicalSequence2.dll

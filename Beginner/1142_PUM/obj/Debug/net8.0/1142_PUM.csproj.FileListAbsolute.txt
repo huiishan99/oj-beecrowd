@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1142_PUM\bin\Debug\net8.0\1142_PUM.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1142_PUM\bin\Debug\net8.0\1142_PUM.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1142_PUM\bin\Debug\net8.0\1142_PUM.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1142_PUM\bin\Debug\net8.0\1142_PUM.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1142_PUM\bin\Debug\net8.0\1142_PUM.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1142_PUM\obj\Debug\net8.0\1142_PUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1142_PUM\obj\Debug\net8.0\1142_PUM.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1142_PUM\obj\Debug\net8.0\1142_PUM.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1142_PUM\obj\Debug\net8.0\1142_PUM.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1142_PUM\obj\Debug\net8.0\1142_PUM.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1142_PUM\obj\Debug\net8.0\1142_PUM.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1142_PUM\obj\Debug\net8.0\refint\1142_PUM.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1142_PUM\obj\Debug\net8.0\1142_PUM.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1142_PUM\obj\Debug\net8.0\1142_PUM.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1142_PUM\obj\Debug\net8.0\ref\1142_PUM.dll

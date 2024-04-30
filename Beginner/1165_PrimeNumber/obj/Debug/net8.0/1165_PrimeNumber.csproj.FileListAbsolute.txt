@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1165_PrimeNumber\bin\Debug\net8.0\1165_PrimeNumber.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1165_PrimeNumber\bin\Debug\net8.0\1165_PrimeNumber.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1165_PrimeNumber\bin\Debug\net8.0\1165_PrimeNumber.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1165_PrimeNumber\bin\Debug\net8.0\1165_PrimeNumber.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1165_PrimeNumber\bin\Debug\net8.0\1165_PrimeNumber.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1165_PrimeNumber\obj\Debug\net8.0\1165_PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1165_PrimeNumber\obj\Debug\net8.0\1165_PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1165_PrimeNumber\obj\Debug\net8.0\1165_PrimeNumber.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1165_PrimeNumber\obj\Debug\net8.0\1165_PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1165_PrimeNumber\obj\Debug\net8.0\1165_PrimeNumber.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1165_PrimeNumber\obj\Debug\net8.0\1165_PrimeNumber.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1165_PrimeNumber\obj\Debug\net8.0\refint\1165_PrimeNumber.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1165_PrimeNumber\obj\Debug\net8.0\1165_PrimeNumber.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1165_PrimeNumber\obj\Debug\net8.0\1165_PrimeNumber.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1165_PrimeNumber\obj\Debug\net8.0\ref\1165_PrimeNumber.dll

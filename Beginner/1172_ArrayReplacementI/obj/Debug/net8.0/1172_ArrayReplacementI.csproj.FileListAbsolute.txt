@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1172_ArrayReplacementI\bin\Debug\net8.0\1172_ArrayReplacementI.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1172_ArrayReplacementI\bin\Debug\net8.0\1172_ArrayReplacementI.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1172_ArrayReplacementI\bin\Debug\net8.0\1172_ArrayReplacementI.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1172_ArrayReplacementI\bin\Debug\net8.0\1172_ArrayReplacementI.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1172_ArrayReplacementI\bin\Debug\net8.0\1172_ArrayReplacementI.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1172_ArrayReplacementI\obj\Debug\net8.0\1172_ArrayReplacementI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1172_ArrayReplacementI\obj\Debug\net8.0\1172_ArrayReplacementI.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1172_ArrayReplacementI\obj\Debug\net8.0\1172_ArrayReplacementI.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1172_ArrayReplacementI\obj\Debug\net8.0\1172_ArrayReplacementI.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1172_ArrayReplacementI\obj\Debug\net8.0\1172_ArrayReplacementI.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1172_ArrayReplacementI\obj\Debug\net8.0\1172_ArrayReplacementI.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1172_ArrayReplacementI\obj\Debug\net8.0\refint\1172_ArrayReplacementI.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1172_ArrayReplacementI\obj\Debug\net8.0\1172_ArrayReplacementI.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1172_ArrayReplacementI\obj\Debug\net8.0\1172_ArrayReplacementI.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1172_ArrayReplacementI\obj\Debug\net8.0\ref\1172_ArrayReplacementI.dll

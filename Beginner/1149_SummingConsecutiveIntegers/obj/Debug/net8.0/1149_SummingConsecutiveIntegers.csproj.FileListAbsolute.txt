@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1149_SummingConsecutiveIntegers\bin\Debug\net8.0\1149_SummingConsecutiveIntegers.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1149_SummingConsecutiveIntegers\bin\Debug\net8.0\1149_SummingConsecutiveIntegers.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1149_SummingConsecutiveIntegers\bin\Debug\net8.0\1149_SummingConsecutiveIntegers.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1149_SummingConsecutiveIntegers\bin\Debug\net8.0\1149_SummingConsecutiveIntegers.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1149_SummingConsecutiveIntegers\bin\Debug\net8.0\1149_SummingConsecutiveIntegers.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1149_SummingConsecutiveIntegers\obj\Debug\net8.0\1149_SummingConsecutiveIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1149_SummingConsecutiveIntegers\obj\Debug\net8.0\1149_SummingConsecutiveIntegers.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1149_SummingConsecutiveIntegers\obj\Debug\net8.0\1149_SummingConsecutiveIntegers.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1149_SummingConsecutiveIntegers\obj\Debug\net8.0\1149_SummingConsecutiveIntegers.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1149_SummingConsecutiveIntegers\obj\Debug\net8.0\1149_SummingConsecutiveIntegers.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1149_SummingConsecutiveIntegers\obj\Debug\net8.0\1149_SummingConsecutiveIntegers.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1149_SummingConsecutiveIntegers\obj\Debug\net8.0\refint\1149_SummingConsecutiveIntegers.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1149_SummingConsecutiveIntegers\obj\Debug\net8.0\1149_SummingConsecutiveIntegers.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1149_SummingConsecutiveIntegers\obj\Debug\net8.0\1149_SummingConsecutiveIntegers.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1149_SummingConsecutiveIntegers\obj\Debug\net8.0\ref\1149_SummingConsecutiveIntegers.dll

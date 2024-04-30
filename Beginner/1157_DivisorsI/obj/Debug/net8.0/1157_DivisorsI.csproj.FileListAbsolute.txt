@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1157_DivisorsI\bin\Debug\net8.0\1157_DivisorsI.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1157_DivisorsI\bin\Debug\net8.0\1157_DivisorsI.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1157_DivisorsI\bin\Debug\net8.0\1157_DivisorsI.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1157_DivisorsI\bin\Debug\net8.0\1157_DivisorsI.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1157_DivisorsI\bin\Debug\net8.0\1157_DivisorsI.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1157_DivisorsI\obj\Debug\net8.0\1157_DivisorsI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1157_DivisorsI\obj\Debug\net8.0\1157_DivisorsI.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1157_DivisorsI\obj\Debug\net8.0\1157_DivisorsI.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1157_DivisorsI\obj\Debug\net8.0\1157_DivisorsI.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1157_DivisorsI\obj\Debug\net8.0\1157_DivisorsI.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1157_DivisorsI\obj\Debug\net8.0\1157_DivisorsI.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1157_DivisorsI\obj\Debug\net8.0\refint\1157_DivisorsI.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1157_DivisorsI\obj\Debug\net8.0\1157_DivisorsI.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1157_DivisorsI\obj\Debug\net8.0\1157_DivisorsI.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1157_DivisorsI\obj\Debug\net8.0\ref\1157_DivisorsI.dll

@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1182_ColumnInArray\bin\Debug\net8.0\1182_ColumnInArray.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1182_ColumnInArray\bin\Debug\net8.0\1182_ColumnInArray.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1182_ColumnInArray\bin\Debug\net8.0\1182_ColumnInArray.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1182_ColumnInArray\bin\Debug\net8.0\1182_ColumnInArray.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1182_ColumnInArray\bin\Debug\net8.0\1182_ColumnInArray.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1182_ColumnInArray\obj\Debug\net8.0\1182_ColumnInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1182_ColumnInArray\obj\Debug\net8.0\1182_ColumnInArray.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1182_ColumnInArray\obj\Debug\net8.0\1182_ColumnInArray.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1182_ColumnInArray\obj\Debug\net8.0\1182_ColumnInArray.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1182_ColumnInArray\obj\Debug\net8.0\1182_ColumnInArray.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1182_ColumnInArray\obj\Debug\net8.0\1182_ColumnInArray.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1182_ColumnInArray\obj\Debug\net8.0\refint\1182_ColumnInArray.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1182_ColumnInArray\obj\Debug\net8.0\1182_ColumnInArray.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1182_ColumnInArray\obj\Debug\net8.0\1182_ColumnInArray.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1182_ColumnInArray\obj\Debug\net8.0\ref\1182_ColumnInArray.dll

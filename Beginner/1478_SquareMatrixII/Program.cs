@@ -6,12 +6,23 @@ while (true)
     if (N == 0) break;
 
     int[,] M = new int[N, N];
+
     for (int i = 0; i < N; i++)
     {
+        int sequence = 1;
+        int reverse = i + 1;
         for (int j = 0; j < N; j++)
         {
-            int min = Math.Min(Math.Min(i, j), Math.Min(N - i - 1, N - j - 1));
-            M[i, j] = min + 1;
+            if (j >= i)
+            {
+                M[i, j] = sequence;
+                sequence++;
+            }
+            else
+            {
+                M[i, j] = reverse;
+                reverse--;
+            }
         }
     }
 

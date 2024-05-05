@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1837_Preface\bin\Debug\net8.0\1837_Preface.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1837_Preface\bin\Debug\net8.0\1837_Preface.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1837_Preface\bin\Debug\net8.0\1837_Preface.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1837_Preface\bin\Debug\net8.0\1837_Preface.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1837_Preface\bin\Debug\net8.0\1837_Preface.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1837_Preface\obj\Debug\net8.0\1837_Preface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1837_Preface\obj\Debug\net8.0\1837_Preface.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1837_Preface\obj\Debug\net8.0\1837_Preface.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1837_Preface\obj\Debug\net8.0\1837_Preface.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1837_Preface\obj\Debug\net8.0\1837_Preface.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1837_Preface\obj\Debug\net8.0\1837_Preface.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1837_Preface\obj\Debug\net8.0\refint\1837_Preface.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1837_Preface\obj\Debug\net8.0\1837_Preface.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1837_Preface\obj\Debug\net8.0\1837_Preface.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1837_Preface\obj\Debug\net8.0\ref\1837_Preface.dll

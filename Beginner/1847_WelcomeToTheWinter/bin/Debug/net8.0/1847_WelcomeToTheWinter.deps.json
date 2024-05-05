@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "1847_WelcomeToTheWinter/1.0.0": {
+        "runtime": {
+          "1847_WelcomeToTheWinter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1847_WelcomeToTheWinter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

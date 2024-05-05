@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1847_WelcomeToTheWinter\bin\Debug\net8.0\1847_WelcomeToTheWinter.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1847_WelcomeToTheWinter\bin\Debug\net8.0\1847_WelcomeToTheWinter.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1847_WelcomeToTheWinter\bin\Debug\net8.0\1847_WelcomeToTheWinter.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1847_WelcomeToTheWinter\bin\Debug\net8.0\1847_WelcomeToTheWinter.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1847_WelcomeToTheWinter\bin\Debug\net8.0\1847_WelcomeToTheWinter.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1847_WelcomeToTheWinter\obj\Debug\net8.0\1847_WelcomeToTheWinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1847_WelcomeToTheWinter\obj\Debug\net8.0\1847_WelcomeToTheWinter.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1847_WelcomeToTheWinter\obj\Debug\net8.0\1847_WelcomeToTheWinter.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1847_WelcomeToTheWinter\obj\Debug\net8.0\1847_WelcomeToTheWinter.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1847_WelcomeToTheWinter\obj\Debug\net8.0\1847_WelcomeToTheWinter.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1847_WelcomeToTheWinter\obj\Debug\net8.0\1847_WelcomeToTheWinter.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1847_WelcomeToTheWinter\obj\Debug\net8.0\refint\1847_WelcomeToTheWinter.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1847_WelcomeToTheWinter\obj\Debug\net8.0\1847_WelcomeToTheWinter.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1847_WelcomeToTheWinter\obj\Debug\net8.0\1847_WelcomeToTheWinter.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1847_WelcomeToTheWinter\obj\Debug\net8.0\ref\1847_WelcomeToTheWinter.dll

@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1827_SquareArrayIV\bin\Debug\net8.0\1827_SquareArrayIV.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1827_SquareArrayIV\bin\Debug\net8.0\1827_SquareArrayIV.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1827_SquareArrayIV\bin\Debug\net8.0\1827_SquareArrayIV.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1827_SquareArrayIV\bin\Debug\net8.0\1827_SquareArrayIV.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1827_SquareArrayIV\bin\Debug\net8.0\1827_SquareArrayIV.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1827_SquareArrayIV\obj\Debug\net8.0\1827_SquareArrayIV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1827_SquareArrayIV\obj\Debug\net8.0\1827_SquareArrayIV.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1827_SquareArrayIV\obj\Debug\net8.0\1827_SquareArrayIV.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1827_SquareArrayIV\obj\Debug\net8.0\1827_SquareArrayIV.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1827_SquareArrayIV\obj\Debug\net8.0\1827_SquareArrayIV.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1827_SquareArrayIV\obj\Debug\net8.0\1827_SquareArrayIV.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1827_SquareArrayIV\obj\Debug\net8.0\refint\1827_SquareArrayIV.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1827_SquareArrayIV\obj\Debug\net8.0\1827_SquareArrayIV.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1827_SquareArrayIV\obj\Debug\net8.0\1827_SquareArrayIV.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1827_SquareArrayIV\obj\Debug\net8.0\ref\1827_SquareArrayIV.dll

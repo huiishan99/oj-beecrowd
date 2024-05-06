@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1858_TheonSAnswer\bin\Debug\net8.0\1858_TheonSAnswer.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1858_TheonSAnswer\bin\Debug\net8.0\1858_TheonSAnswer.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1858_TheonSAnswer\bin\Debug\net8.0\1858_TheonSAnswer.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1858_TheonSAnswer\bin\Debug\net8.0\1858_TheonSAnswer.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1858_TheonSAnswer\bin\Debug\net8.0\1858_TheonSAnswer.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1858_TheonSAnswer\obj\Debug\net8.0\1858_TheonSAnswer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1858_TheonSAnswer\obj\Debug\net8.0\1858_TheonSAnswer.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1858_TheonSAnswer\obj\Debug\net8.0\1858_TheonSAnswer.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1858_TheonSAnswer\obj\Debug\net8.0\1858_TheonSAnswer.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1858_TheonSAnswer\obj\Debug\net8.0\1858_TheonSAnswer.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1858_TheonSAnswer\obj\Debug\net8.0\1858_TheonSAnswer.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1858_TheonSAnswer\obj\Debug\net8.0\refint\1858_TheonSAnswer.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1858_TheonSAnswer\obj\Debug\net8.0\1858_TheonSAnswer.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1858_TheonSAnswer\obj\Debug\net8.0\1858_TheonSAnswer.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1858_TheonSAnswer\obj\Debug\net8.0\ref\1858_TheonSAnswer.dll

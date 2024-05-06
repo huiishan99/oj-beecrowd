@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1848_CountingCrow\bin\Debug\net8.0\1848_CountingCrow.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1848_CountingCrow\bin\Debug\net8.0\1848_CountingCrow.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1848_CountingCrow\bin\Debug\net8.0\1848_CountingCrow.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1848_CountingCrow\bin\Debug\net8.0\1848_CountingCrow.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1848_CountingCrow\bin\Debug\net8.0\1848_CountingCrow.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1848_CountingCrow\obj\Debug\net8.0\1848_CountingCrow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1848_CountingCrow\obj\Debug\net8.0\1848_CountingCrow.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1848_CountingCrow\obj\Debug\net8.0\1848_CountingCrow.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1848_CountingCrow\obj\Debug\net8.0\1848_CountingCrow.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1848_CountingCrow\obj\Debug\net8.0\1848_CountingCrow.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1848_CountingCrow\obj\Debug\net8.0\1848_CountingCrow.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1848_CountingCrow\obj\Debug\net8.0\refint\1848_CountingCrow.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1848_CountingCrow\obj\Debug\net8.0\1848_CountingCrow.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1848_CountingCrow\obj\Debug\net8.0\1848_CountingCrow.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1848_CountingCrow\obj\Debug\net8.0\ref\1848_CountingCrow.dll

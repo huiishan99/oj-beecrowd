@@ -1,0 +1,14 @@
+C:\Users\huiis\RiderProjects\1864_OurDaysAreNeverComingBack\bin\Debug\net8.0\1864_OurDaysAreNeverComingBack.exe
+C:\Users\huiis\RiderProjects\1864_OurDaysAreNeverComingBack\bin\Debug\net8.0\1864_OurDaysAreNeverComingBack.deps.json
+C:\Users\huiis\RiderProjects\1864_OurDaysAreNeverComingBack\bin\Debug\net8.0\1864_OurDaysAreNeverComingBack.runtimeconfig.json
+C:\Users\huiis\RiderProjects\1864_OurDaysAreNeverComingBack\bin\Debug\net8.0\1864_OurDaysAreNeverComingBack.dll
+C:\Users\huiis\RiderProjects\1864_OurDaysAreNeverComingBack\bin\Debug\net8.0\1864_OurDaysAreNeverComingBack.pdb
+C:\Users\huiis\RiderProjects\1864_OurDaysAreNeverComingBack\obj\Debug\net8.0\1864_OurDaysAreNeverComingBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\RiderProjects\1864_OurDaysAreNeverComingBack\obj\Debug\net8.0\1864_OurDaysAreNeverComingBack.AssemblyInfoInputs.cache
+C:\Users\huiis\RiderProjects\1864_OurDaysAreNeverComingBack\obj\Debug\net8.0\1864_OurDaysAreNeverComingBack.AssemblyInfo.cs
+C:\Users\huiis\RiderProjects\1864_OurDaysAreNeverComingBack\obj\Debug\net8.0\1864_OurDaysAreNeverComingBack.csproj.CoreCompileInputs.cache
+C:\Users\huiis\RiderProjects\1864_OurDaysAreNeverComingBack\obj\Debug\net8.0\1864_OurDaysAreNeverComingBack.dll
+C:\Users\huiis\RiderProjects\1864_OurDaysAreNeverComingBack\obj\Debug\net8.0\refint\1864_OurDaysAreNeverComingBack.dll
+C:\Users\huiis\RiderProjects\1864_OurDaysAreNeverComingBack\obj\Debug\net8.0\1864_OurDaysAreNeverComingBack.pdb
+C:\Users\huiis\RiderProjects\1864_OurDaysAreNeverComingBack\obj\Debug\net8.0\1864_OurDaysAreNeverComingBack.genruntimeconfig.cache
+C:\Users\huiis\RiderProjects\1864_OurDaysAreNeverComingBack\obj\Debug\net8.0\ref\1864_OurDaysAreNeverComingBack.dll

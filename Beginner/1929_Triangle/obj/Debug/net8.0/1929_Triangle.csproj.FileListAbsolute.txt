@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1929_Triangle\bin\Debug\net8.0\1929_Triangle.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1929_Triangle\bin\Debug\net8.0\1929_Triangle.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1929_Triangle\bin\Debug\net8.0\1929_Triangle.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1929_Triangle\bin\Debug\net8.0\1929_Triangle.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1929_Triangle\bin\Debug\net8.0\1929_Triangle.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1929_Triangle\obj\Debug\net8.0\1929_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1929_Triangle\obj\Debug\net8.0\1929_Triangle.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1929_Triangle\obj\Debug\net8.0\1929_Triangle.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1929_Triangle\obj\Debug\net8.0\1929_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1929_Triangle\obj\Debug\net8.0\1929_Triangle.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1929_Triangle\obj\Debug\net8.0\1929_Triangle.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1929_Triangle\obj\Debug\net8.0\refint\1929_Triangle.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1929_Triangle\obj\Debug\net8.0\1929_Triangle.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1929_Triangle\obj\Debug\net8.0\1929_Triangle.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1929_Triangle\obj\Debug\net8.0\ref\1929_Triangle.dll

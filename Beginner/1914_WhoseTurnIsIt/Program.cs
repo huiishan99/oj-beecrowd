@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Collections.Generic;
+
 int testCases = int.Parse(Console.ReadLine());
 
 for (int i = 0; i < testCases; i++)

@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1914_WhoseTurnIsIt\bin\Debug\net8.0\1914_WhoseTurnIsIt.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1914_WhoseTurnIsIt\bin\Debug\net8.0\1914_WhoseTurnIsIt.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1914_WhoseTurnIsIt\bin\Debug\net8.0\1914_WhoseTurnIsIt.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1914_WhoseTurnIsIt\bin\Debug\net8.0\1914_WhoseTurnIsIt.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1914_WhoseTurnIsIt\bin\Debug\net8.0\1914_WhoseTurnIsIt.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1914_WhoseTurnIsIt\obj\Debug\net8.0\1914_WhoseTurnIsIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1914_WhoseTurnIsIt\obj\Debug\net8.0\1914_WhoseTurnIsIt.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1914_WhoseTurnIsIt\obj\Debug\net8.0\1914_WhoseTurnIsIt.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1914_WhoseTurnIsIt\obj\Debug\net8.0\1914_WhoseTurnIsIt.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1914_WhoseTurnIsIt\obj\Debug\net8.0\1914_WhoseTurnIsIt.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1914_WhoseTurnIsIt\obj\Debug\net8.0\1914_WhoseTurnIsIt.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1914_WhoseTurnIsIt\obj\Debug\net8.0\refint\1914_WhoseTurnIsIt.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1914_WhoseTurnIsIt\obj\Debug\net8.0\1914_WhoseTurnIsIt.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1914_WhoseTurnIsIt\obj\Debug\net8.0\1914_WhoseTurnIsIt.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1914_WhoseTurnIsIt\obj\Debug\net8.0\ref\1914_WhoseTurnIsIt.dll

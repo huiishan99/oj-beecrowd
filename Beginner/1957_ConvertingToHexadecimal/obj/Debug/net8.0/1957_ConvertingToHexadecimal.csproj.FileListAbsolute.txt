@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1957_ConvertingToHexadecimal\bin\Debug\net8.0\1957_ConvertingToHexadecimal.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1957_ConvertingToHexadecimal\bin\Debug\net8.0\1957_ConvertingToHexadecimal.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1957_ConvertingToHexadecimal\bin\Debug\net8.0\1957_ConvertingToHexadecimal.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1957_ConvertingToHexadecimal\bin\Debug\net8.0\1957_ConvertingToHexadecimal.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1957_ConvertingToHexadecimal\bin\Debug\net8.0\1957_ConvertingToHexadecimal.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1957_ConvertingToHexadecimal\obj\Debug\net8.0\1957_ConvertingToHexadecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1957_ConvertingToHexadecimal\obj\Debug\net8.0\1957_ConvertingToHexadecimal.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1957_ConvertingToHexadecimal\obj\Debug\net8.0\1957_ConvertingToHexadecimal.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1957_ConvertingToHexadecimal\obj\Debug\net8.0\1957_ConvertingToHexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1957_ConvertingToHexadecimal\obj\Debug\net8.0\1957_ConvertingToHexadecimal.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1957_ConvertingToHexadecimal\obj\Debug\net8.0\1957_ConvertingToHexadecimal.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1957_ConvertingToHexadecimal\obj\Debug\net8.0\refint\1957_ConvertingToHexadecimal.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1957_ConvertingToHexadecimal\obj\Debug\net8.0\1957_ConvertingToHexadecimal.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1957_ConvertingToHexadecimal\obj\Debug\net8.0\1957_ConvertingToHexadecimal.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1957_ConvertingToHexadecimal\obj\Debug\net8.0\ref\1957_ConvertingToHexadecimal.dll

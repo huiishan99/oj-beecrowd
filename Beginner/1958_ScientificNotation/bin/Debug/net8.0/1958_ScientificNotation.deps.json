@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "1958_ScientificNotation/1.0.0": {
+        "runtime": {
+          "1958_ScientificNotation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1958_ScientificNotation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

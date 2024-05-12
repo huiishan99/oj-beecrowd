@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1963_TheMotionPicture", "1963_TheMotionPicture.csproj", "{62EF4BAC-74BA-4997-814F-00C01492AC55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62EF4BAC-74BA-4997-814F-00C01492AC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62EF4BAC-74BA-4997-814F-00C01492AC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62EF4BAC-74BA-4997-814F-00C01492AC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62EF4BAC-74BA-4997-814F-00C01492AC55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

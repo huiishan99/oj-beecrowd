@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1973_StarTrek\bin\Debug\net8.0\1973_StarTrek.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1973_StarTrek\bin\Debug\net8.0\1973_StarTrek.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1973_StarTrek\bin\Debug\net8.0\1973_StarTrek.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1973_StarTrek\bin\Debug\net8.0\1973_StarTrek.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1973_StarTrek\bin\Debug\net8.0\1973_StarTrek.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1973_StarTrek\obj\Debug\net8.0\1973_StarTrek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1973_StarTrek\obj\Debug\net8.0\1973_StarTrek.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1973_StarTrek\obj\Debug\net8.0\1973_StarTrek.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1973_StarTrek\obj\Debug\net8.0\1973_StarTrek.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1973_StarTrek\obj\Debug\net8.0\1973_StarTrek.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1973_StarTrek\obj\Debug\net8.0\1973_StarTrek.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1973_StarTrek\obj\Debug\net8.0\refint\1973_StarTrek.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1973_StarTrek\obj\Debug\net8.0\1973_StarTrek.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1973_StarTrek\obj\Debug\net8.0\1973_StarTrek.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1973_StarTrek\obj\Debug\net8.0\ref\1973_StarTrek.dll

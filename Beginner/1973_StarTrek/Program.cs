@@ -1,43 +1,56 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿long n = long.Parse(Console.ReadLine());
+int[] sheep = new int[n];
+bool[] star = new bool[n];
+long starCount = 0;
+long sheepCount = 0;
 
-int numberOfStars = int.Parse(Console.ReadLine());
-string[] inputNumberOfSheep = Console.ReadLine().Split(new[] { ' ' });
-int[] numberOfSheep = new int[numberOfStars];
+string[] inputSheep = Console.ReadLine().Split(new[] { ' ' });
 
-for (int i = 0; i < numberOfStars; i++)
+for (long i = 0; i < n; i++)
 {
-    numberOfSheep[i] = int.Parse(inputNumberOfSheep[i]);
+    sheep[i] = int.Parse(inputSheep[i]);
+    star[i] = false;
 }
 
-bool[] attackedStar = new bool[numberOfStars];
-int position = 0;
-while (position < numberOfStars)
+long currentPosition = 0;
+
+while (true)
 {
-    if (position == 0 && attackedStar[position]) break;
-    if (numberOfSheep[position] % 2 != 0)
+    if (currentPosition == 0 && sheep[currentPosition] % 2 == 0)
     {
-        numberOfSheep[position]--;
-        attackedStar[position] = true;
-        position++;
+        star[currentPosition] = true;
+        if (sheep[currentPosition] > 0)
+            sheep[currentPosition]--;
+        break;
+    }
+    else if (currentPosition == n - 1 && sheep[currentPosition] % 2 == 1)
+    {
+        star[currentPosition] = true;
+        if (sheep[currentPosition] > 0)
+            sheep[currentPosition]--;
+        break;
+    }
+
+    if (sheep[currentPosition] % 2 == 1)
+    {
+        star[currentPosition] = true;
+        sheep[currentPosition]--;
+        currentPosition++;
     }
     else
     {
-        if (!attackedStar[position])
-        {
-            numberOfSheep[position]--;
-            attackedStar[position] = true;
-        }
-
-        position--;
+        star[currentPosition] = true;
+        if (sheep[currentPosition] > 0)
+            sheep[currentPosition]--;
+        currentPosition--;
     }
 }
 
-int allAttackedStar = 0;
-int nonStolenSheeps = 0;
-for (int i = 0; i < numberOfStars; i++)
+for (long i = 0; i < n; i++)
 {
-    nonStolenSheeps += numberOfSheep[i];
-    allAttackedStar += attackedStar[i];
+    sheepCount += sheep[i];
+    if (star[i])
+        starCount++;
 }
 
-Console.WriteLine("{0} {1}", allAttackedStar, nonStolenSheeps);
+Console.WriteLine($"{starCount} {sheepCount}");

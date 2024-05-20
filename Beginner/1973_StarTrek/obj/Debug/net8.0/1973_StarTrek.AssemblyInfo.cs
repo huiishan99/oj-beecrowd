@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1973_StarTrek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f33e51f7b90fc493df6e36e32ff28799948b316")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3afd19355e13e73711b3186f4e85b6f5fba3c69")]
 [assembly: System.Reflection.AssemblyProductAttribute("1973_StarTrek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1973_StarTrek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

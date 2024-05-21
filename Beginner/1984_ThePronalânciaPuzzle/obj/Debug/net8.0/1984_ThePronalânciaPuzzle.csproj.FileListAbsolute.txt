@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1984_ThePronalânciaPuzzle\bin\Debug\net8.0\1984_ThePronalânciaPuzzle.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1984_ThePronalânciaPuzzle\bin\Debug\net8.0\1984_ThePronalânciaPuzzle.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1984_ThePronalânciaPuzzle\bin\Debug\net8.0\1984_ThePronalânciaPuzzle.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1984_ThePronalânciaPuzzle\bin\Debug\net8.0\1984_ThePronalânciaPuzzle.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1984_ThePronalânciaPuzzle\bin\Debug\net8.0\1984_ThePronalânciaPuzzle.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1984_ThePronalânciaPuzzle\obj\Debug\net8.0\1984_ThePronalânciaPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1984_ThePronalânciaPuzzle\obj\Debug\net8.0\1984_ThePronalânciaPuzzle.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1984_ThePronalânciaPuzzle\obj\Debug\net8.0\1984_ThePronalânciaPuzzle.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1984_ThePronalânciaPuzzle\obj\Debug\net8.0\1984_ThePronalânciaPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1984_ThePronalânciaPuzzle\obj\Debug\net8.0\1984_ThePronalânciaPuzzle.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1984_ThePronalânciaPuzzle\obj\Debug\net8.0\1984_ThePronalânciaPuzzle.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1984_ThePronalânciaPuzzle\obj\Debug\net8.0\refint\1984_ThePronalânciaPuzzle.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1984_ThePronalânciaPuzzle\obj\Debug\net8.0\1984_ThePronalânciaPuzzle.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1984_ThePronalânciaPuzzle\obj\Debug\net8.0\1984_ThePronalânciaPuzzle.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1984_ThePronalânciaPuzzle\obj\Debug\net8.0\ref\1984_ThePronalânciaPuzzle.dll

@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\2006_IdentifyingTea\bin\Debug\net8.0\2006_IdentifyingTea.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\2006_IdentifyingTea\bin\Debug\net8.0\2006_IdentifyingTea.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\2006_IdentifyingTea\bin\Debug\net8.0\2006_IdentifyingTea.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\2006_IdentifyingTea\bin\Debug\net8.0\2006_IdentifyingTea.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\2006_IdentifyingTea\bin\Debug\net8.0\2006_IdentifyingTea.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\2006_IdentifyingTea\obj\Debug\net8.0\2006_IdentifyingTea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\2006_IdentifyingTea\obj\Debug\net8.0\2006_IdentifyingTea.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\2006_IdentifyingTea\obj\Debug\net8.0\2006_IdentifyingTea.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\2006_IdentifyingTea\obj\Debug\net8.0\2006_IdentifyingTea.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\2006_IdentifyingTea\obj\Debug\net8.0\2006_IdentifyingTea.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\2006_IdentifyingTea\obj\Debug\net8.0\2006_IdentifyingTea.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\2006_IdentifyingTea\obj\Debug\net8.0\refint\2006_IdentifyingTea.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\2006_IdentifyingTea\obj\Debug\net8.0\2006_IdentifyingTea.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\2006_IdentifyingTea\obj\Debug\net8.0\2006_IdentifyingTea.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\2006_IdentifyingTea\obj\Debug\net8.0\ref\2006_IdentifyingTea.dll

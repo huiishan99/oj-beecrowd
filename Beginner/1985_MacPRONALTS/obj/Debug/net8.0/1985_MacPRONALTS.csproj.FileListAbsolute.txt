@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1985_MacPRONALTS\bin\Debug\net8.0\1985_MacPRONALTS.exe
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1985_MacPRONALTS\bin\Debug\net8.0\1985_MacPRONALTS.deps.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1985_MacPRONALTS\bin\Debug\net8.0\1985_MacPRONALTS.runtimeconfig.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1985_MacPRONALTS\bin\Debug\net8.0\1985_MacPRONALTS.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1985_MacPRONALTS\bin\Debug\net8.0\1985_MacPRONALTS.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1985_MacPRONALTS\obj\Debug\net8.0\1985_MacPRONALTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1985_MacPRONALTS\obj\Debug\net8.0\1985_MacPRONALTS.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1985_MacPRONALTS\obj\Debug\net8.0\1985_MacPRONALTS.AssemblyInfo.cs
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1985_MacPRONALTS\obj\Debug\net8.0\1985_MacPRONALTS.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1985_MacPRONALTS\obj\Debug\net8.0\1985_MacPRONALTS.sourcelink.json
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1985_MacPRONALTS\obj\Debug\net8.0\1985_MacPRONALTS.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1985_MacPRONALTS\obj\Debug\net8.0\refint\1985_MacPRONALTS.dll
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1985_MacPRONALTS\obj\Debug\net8.0\1985_MacPRONALTS.pdb
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1985_MacPRONALTS\obj\Debug\net8.0\1985_MacPRONALTS.genruntimeconfig.cache
+C:\Users\huiis\Documents\C#_Beecrowd\Beginner\1985_MacPRONALTS\obj\Debug\net8.0\ref\1985_MacPRONALTS.dll

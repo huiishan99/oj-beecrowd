@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2031_RockPaperAirstrike\bin\Debug\net8.0\2031_RockPaperAirstrike.exe
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2031_RockPaperAirstrike\bin\Debug\net8.0\2031_RockPaperAirstrike.deps.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2031_RockPaperAirstrike\bin\Debug\net8.0\2031_RockPaperAirstrike.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2031_RockPaperAirstrike\bin\Debug\net8.0\2031_RockPaperAirstrike.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2031_RockPaperAirstrike\bin\Debug\net8.0\2031_RockPaperAirstrike.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2031_RockPaperAirstrike\obj\Debug\net8.0\2031_RockPaperAirstrike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2031_RockPaperAirstrike\obj\Debug\net8.0\2031_RockPaperAirstrike.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2031_RockPaperAirstrike\obj\Debug\net8.0\2031_RockPaperAirstrike.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2031_RockPaperAirstrike\obj\Debug\net8.0\2031_RockPaperAirstrike.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2031_RockPaperAirstrike\obj\Debug\net8.0\2031_RockPaperAirstrike.sourcelink.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2031_RockPaperAirstrike\obj\Debug\net8.0\2031_RockPaperAirstrike.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2031_RockPaperAirstrike\obj\Debug\net8.0\refint\2031_RockPaperAirstrike.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2031_RockPaperAirstrike\obj\Debug\net8.0\2031_RockPaperAirstrike.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2031_RockPaperAirstrike\obj\Debug\net8.0\2031_RockPaperAirstrike.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2031_RockPaperAirstrike\obj\Debug\net8.0\ref\2031_RockPaperAirstrike.dll

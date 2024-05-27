@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2029_HoneyReservoir\bin\Debug\net8.0\2029_HoneyReservoir.exe
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2029_HoneyReservoir\bin\Debug\net8.0\2029_HoneyReservoir.deps.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2029_HoneyReservoir\bin\Debug\net8.0\2029_HoneyReservoir.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2029_HoneyReservoir\bin\Debug\net8.0\2029_HoneyReservoir.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2029_HoneyReservoir\bin\Debug\net8.0\2029_HoneyReservoir.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2029_HoneyReservoir\obj\Debug\net8.0\2029_HoneyReservoir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2029_HoneyReservoir\obj\Debug\net8.0\2029_HoneyReservoir.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2029_HoneyReservoir\obj\Debug\net8.0\2029_HoneyReservoir.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2029_HoneyReservoir\obj\Debug\net8.0\2029_HoneyReservoir.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2029_HoneyReservoir\obj\Debug\net8.0\2029_HoneyReservoir.sourcelink.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2029_HoneyReservoir\obj\Debug\net8.0\2029_HoneyReservoir.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2029_HoneyReservoir\obj\Debug\net8.0\refint\2029_HoneyReservoir.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2029_HoneyReservoir\obj\Debug\net8.0\2029_HoneyReservoir.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2029_HoneyReservoir\obj\Debug\net8.0\2029_HoneyReservoir.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2029_HoneyReservoir\obj\Debug\net8.0\ref\2029_HoneyReservoir.dll

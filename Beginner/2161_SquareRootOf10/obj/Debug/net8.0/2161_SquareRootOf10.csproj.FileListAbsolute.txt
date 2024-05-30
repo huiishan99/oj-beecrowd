@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2161_SquareRootOf10\bin\Debug\net8.0\2161_SquareRootOf10.exe
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2161_SquareRootOf10\bin\Debug\net8.0\2161_SquareRootOf10.deps.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2161_SquareRootOf10\bin\Debug\net8.0\2161_SquareRootOf10.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2161_SquareRootOf10\bin\Debug\net8.0\2161_SquareRootOf10.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2161_SquareRootOf10\bin\Debug\net8.0\2161_SquareRootOf10.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2161_SquareRootOf10\obj\Debug\net8.0\2161_SquareRootOf10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2161_SquareRootOf10\obj\Debug\net8.0\2161_SquareRootOf10.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2161_SquareRootOf10\obj\Debug\net8.0\2161_SquareRootOf10.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2161_SquareRootOf10\obj\Debug\net8.0\2161_SquareRootOf10.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2161_SquareRootOf10\obj\Debug\net8.0\2161_SquareRootOf10.sourcelink.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2161_SquareRootOf10\obj\Debug\net8.0\2161_SquareRootOf10.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2161_SquareRootOf10\obj\Debug\net8.0\refint\2161_SquareRootOf10.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2161_SquareRootOf10\obj\Debug\net8.0\2161_SquareRootOf10.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2161_SquareRootOf10\obj\Debug\net8.0\2161_SquareRootOf10.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2161_SquareRootOf10\obj\Debug\net8.0\ref\2161_SquareRootOf10.dll

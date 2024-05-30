@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2160_NameAtForm\bin\Debug\net8.0\2160_NameAtForm.exe
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2160_NameAtForm\bin\Debug\net8.0\2160_NameAtForm.deps.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2160_NameAtForm\bin\Debug\net8.0\2160_NameAtForm.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2160_NameAtForm\bin\Debug\net8.0\2160_NameAtForm.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2160_NameAtForm\bin\Debug\net8.0\2160_NameAtForm.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2160_NameAtForm\obj\Debug\net8.0\2160_NameAtForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2160_NameAtForm\obj\Debug\net8.0\2160_NameAtForm.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2160_NameAtForm\obj\Debug\net8.0\2160_NameAtForm.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2160_NameAtForm\obj\Debug\net8.0\2160_NameAtForm.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2160_NameAtForm\obj\Debug\net8.0\2160_NameAtForm.sourcelink.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2160_NameAtForm\obj\Debug\net8.0\2160_NameAtForm.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2160_NameAtForm\obj\Debug\net8.0\refint\2160_NameAtForm.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2160_NameAtForm\obj\Debug\net8.0\2160_NameAtForm.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2160_NameAtForm\obj\Debug\net8.0\2160_NameAtForm.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2160_NameAtForm\obj\Debug\net8.0\ref\2160_NameAtForm.dll

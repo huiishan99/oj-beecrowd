@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2147_Galopeira/1.0.0": {
+        "runtime": {
+          "2147_Galopeira.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2147_Galopeira/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

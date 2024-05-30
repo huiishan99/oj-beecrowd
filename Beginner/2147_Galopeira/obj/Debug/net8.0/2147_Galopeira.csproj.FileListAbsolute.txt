@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2147_Galopeira\bin\Debug\net8.0\2147_Galopeira.exe
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2147_Galopeira\bin\Debug\net8.0\2147_Galopeira.deps.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2147_Galopeira\bin\Debug\net8.0\2147_Galopeira.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2147_Galopeira\bin\Debug\net8.0\2147_Galopeira.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2147_Galopeira\bin\Debug\net8.0\2147_Galopeira.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2147_Galopeira\obj\Debug\net8.0\2147_Galopeira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2147_Galopeira\obj\Debug\net8.0\2147_Galopeira.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2147_Galopeira\obj\Debug\net8.0\2147_Galopeira.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2147_Galopeira\obj\Debug\net8.0\2147_Galopeira.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2147_Galopeira\obj\Debug\net8.0\2147_Galopeira.sourcelink.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2147_Galopeira\obj\Debug\net8.0\2147_Galopeira.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2147_Galopeira\obj\Debug\net8.0\refint\2147_Galopeira.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2147_Galopeira\obj\Debug\net8.0\2147_Galopeira.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2147_Galopeira\obj\Debug\net8.0\2147_Galopeira.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2147_Galopeira\obj\Debug\net8.0\ref\2147_Galopeira.dll

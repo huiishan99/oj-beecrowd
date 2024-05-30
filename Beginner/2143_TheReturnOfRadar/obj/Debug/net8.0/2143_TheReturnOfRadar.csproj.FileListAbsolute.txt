@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2143_TheReturnOfRadar\bin\Debug\net8.0\2143_TheReturnOfRadar.exe
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2143_TheReturnOfRadar\bin\Debug\net8.0\2143_TheReturnOfRadar.deps.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2143_TheReturnOfRadar\bin\Debug\net8.0\2143_TheReturnOfRadar.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2143_TheReturnOfRadar\bin\Debug\net8.0\2143_TheReturnOfRadar.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2143_TheReturnOfRadar\bin\Debug\net8.0\2143_TheReturnOfRadar.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2143_TheReturnOfRadar\obj\Debug\net8.0\2143_TheReturnOfRadar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2143_TheReturnOfRadar\obj\Debug\net8.0\2143_TheReturnOfRadar.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2143_TheReturnOfRadar\obj\Debug\net8.0\2143_TheReturnOfRadar.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2143_TheReturnOfRadar\obj\Debug\net8.0\2143_TheReturnOfRadar.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2143_TheReturnOfRadar\obj\Debug\net8.0\2143_TheReturnOfRadar.sourcelink.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2143_TheReturnOfRadar\obj\Debug\net8.0\2143_TheReturnOfRadar.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2143_TheReturnOfRadar\obj\Debug\net8.0\refint\2143_TheReturnOfRadar.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2143_TheReturnOfRadar\obj\Debug\net8.0\2143_TheReturnOfRadar.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2143_TheReturnOfRadar\obj\Debug\net8.0\2143_TheReturnOfRadar.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2143_TheReturnOfRadar\obj\Debug\net8.0\ref\2143_TheReturnOfRadar.dll

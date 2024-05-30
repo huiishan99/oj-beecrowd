@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2162_PeaksAndValleys\bin\Debug\net8.0\2162_PeaksAndValleys.exe
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2162_PeaksAndValleys\bin\Debug\net8.0\2162_PeaksAndValleys.deps.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2162_PeaksAndValleys\bin\Debug\net8.0\2162_PeaksAndValleys.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2162_PeaksAndValleys\bin\Debug\net8.0\2162_PeaksAndValleys.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2162_PeaksAndValleys\bin\Debug\net8.0\2162_PeaksAndValleys.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2162_PeaksAndValleys\obj\Debug\net8.0\2162_PeaksAndValleys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2162_PeaksAndValleys\obj\Debug\net8.0\2162_PeaksAndValleys.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2162_PeaksAndValleys\obj\Debug\net8.0\2162_PeaksAndValleys.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2162_PeaksAndValleys\obj\Debug\net8.0\2162_PeaksAndValleys.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2162_PeaksAndValleys\obj\Debug\net8.0\2162_PeaksAndValleys.sourcelink.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2162_PeaksAndValleys\obj\Debug\net8.0\2162_PeaksAndValleys.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2162_PeaksAndValleys\obj\Debug\net8.0\refint\2162_PeaksAndValleys.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2162_PeaksAndValleys\obj\Debug\net8.0\2162_PeaksAndValleys.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2162_PeaksAndValleys\obj\Debug\net8.0\2162_PeaksAndValleys.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2162_PeaksAndValleys\obj\Debug\net8.0\ref\2162_PeaksAndValleys.dll

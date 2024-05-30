@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2139_PedrinhoSChristmas\bin\Debug\net8.0\2139_PedrinhoSChristmas.exe
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2139_PedrinhoSChristmas\bin\Debug\net8.0\2139_PedrinhoSChristmas.deps.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2139_PedrinhoSChristmas\bin\Debug\net8.0\2139_PedrinhoSChristmas.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2139_PedrinhoSChristmas\bin\Debug\net8.0\2139_PedrinhoSChristmas.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2139_PedrinhoSChristmas\bin\Debug\net8.0\2139_PedrinhoSChristmas.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2139_PedrinhoSChristmas\obj\Debug\net8.0\2139_PedrinhoSChristmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2139_PedrinhoSChristmas\obj\Debug\net8.0\2139_PedrinhoSChristmas.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2139_PedrinhoSChristmas\obj\Debug\net8.0\2139_PedrinhoSChristmas.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2139_PedrinhoSChristmas\obj\Debug\net8.0\2139_PedrinhoSChristmas.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2139_PedrinhoSChristmas\obj\Debug\net8.0\2139_PedrinhoSChristmas.sourcelink.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2139_PedrinhoSChristmas\obj\Debug\net8.0\2139_PedrinhoSChristmas.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2139_PedrinhoSChristmas\obj\Debug\net8.0\refint\2139_PedrinhoSChristmas.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2139_PedrinhoSChristmas\obj\Debug\net8.0\2139_PedrinhoSChristmas.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2139_PedrinhoSChristmas\obj\Debug\net8.0\2139_PedrinhoSChristmas.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2139_PedrinhoSChristmas\obj\Debug\net8.0\ref\2139_PedrinhoSChristmas.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2163_TheForceAwakens/1.0.0": {
+        "runtime": {
+          "2163_TheForceAwakens.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2163_TheForceAwakens/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

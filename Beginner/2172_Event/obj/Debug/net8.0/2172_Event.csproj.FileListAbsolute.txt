@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2172_Event\bin\Debug\net8.0\2172_Event.exe
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2172_Event\bin\Debug\net8.0\2172_Event.deps.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2172_Event\bin\Debug\net8.0\2172_Event.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2172_Event\bin\Debug\net8.0\2172_Event.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2172_Event\bin\Debug\net8.0\2172_Event.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2172_Event\obj\Debug\net8.0\2172_Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2172_Event\obj\Debug\net8.0\2172_Event.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2172_Event\obj\Debug\net8.0\2172_Event.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2172_Event\obj\Debug\net8.0\2172_Event.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2172_Event\obj\Debug\net8.0\2172_Event.sourcelink.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2172_Event\obj\Debug\net8.0\2172_Event.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2172_Event\obj\Debug\net8.0\refint\2172_Event.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2172_Event\obj\Debug\net8.0\2172_Event.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2172_Event\obj\Debug\net8.0\2172_Event.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2172_Event\obj\Debug\net8.0\ref\2172_Event.dll

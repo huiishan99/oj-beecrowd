@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2203_Crowstorm", "2203_Crowstorm.csproj", "{2F4AF13A-F2AB-45A1-AB37-DF52ADA19228}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F4AF13A-F2AB-45A1-AB37-DF52ADA19228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4AF13A-F2AB-45A1-AB37-DF52ADA19228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4AF13A-F2AB-45A1-AB37-DF52ADA19228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4AF13A-F2AB-45A1-AB37-DF52ADA19228}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

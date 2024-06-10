@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2221_PomekonsBattle/1.0.0": {
+        "runtime": {
+          "2221_PomekonsBattle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2221_PomekonsBattle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

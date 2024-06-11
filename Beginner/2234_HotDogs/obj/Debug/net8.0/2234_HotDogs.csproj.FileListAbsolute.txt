@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2234_HotDogs\bin\Debug\net8.0\2234_HotDogs.exe
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2234_HotDogs\bin\Debug\net8.0\2234_HotDogs.deps.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2234_HotDogs\bin\Debug\net8.0\2234_HotDogs.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2234_HotDogs\bin\Debug\net8.0\2234_HotDogs.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2234_HotDogs\bin\Debug\net8.0\2234_HotDogs.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2234_HotDogs\obj\Debug\net8.0\2234_HotDogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2234_HotDogs\obj\Debug\net8.0\2234_HotDogs.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2234_HotDogs\obj\Debug\net8.0\2234_HotDogs.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2234_HotDogs\obj\Debug\net8.0\2234_HotDogs.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2234_HotDogs\obj\Debug\net8.0\2234_HotDogs.sourcelink.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2234_HotDogs\obj\Debug\net8.0\2234_HotDogs.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2234_HotDogs\obj\Debug\net8.0\refint\2234_HotDogs.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2234_HotDogs\obj\Debug\net8.0\2234_HotDogs.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2234_HotDogs\obj\Debug\net8.0\2234_HotDogs.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2234_HotDogs\obj\Debug\net8.0\ref\2234_HotDogs.dll

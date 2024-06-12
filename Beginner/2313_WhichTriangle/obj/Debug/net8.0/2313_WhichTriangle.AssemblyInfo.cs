@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("2235_WalkingInTime")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("2313_WhichTriangle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6c843320149e83f5daa153fbedfc18e57980b0f")]
-[assembly: System.Reflection.AssemblyProductAttribute("2235_WalkingInTime")]
-[assembly: System.Reflection.AssemblyTitleAttribute("2235_WalkingInTime")]
+[assembly: System.Reflection.AssemblyProductAttribute("2313_WhichTriangle")]
+[assembly: System.Reflection.AssemblyTitleAttribute("2313_WhichTriangle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

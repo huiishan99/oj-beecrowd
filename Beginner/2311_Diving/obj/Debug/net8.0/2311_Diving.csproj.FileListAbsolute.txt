@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2311_Diving\bin\Debug\net8.0\2311_Diving.exe
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2311_Diving\bin\Debug\net8.0\2311_Diving.deps.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2311_Diving\bin\Debug\net8.0\2311_Diving.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2311_Diving\bin\Debug\net8.0\2311_Diving.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2311_Diving\bin\Debug\net8.0\2311_Diving.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2311_Diving\obj\Debug\net8.0\2311_Diving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2311_Diving\obj\Debug\net8.0\2311_Diving.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2311_Diving\obj\Debug\net8.0\2311_Diving.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2311_Diving\obj\Debug\net8.0\2311_Diving.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2311_Diving\obj\Debug\net8.0\2311_Diving.sourcelink.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2311_Diving\obj\Debug\net8.0\2311_Diving.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2311_Diving\obj\Debug\net8.0\refint\2311_Diving.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2311_Diving\obj\Debug\net8.0\2311_Diving.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2311_Diving\obj\Debug\net8.0\2311_Diving.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2311_Diving\obj\Debug\net8.0\ref\2311_Diving.dll

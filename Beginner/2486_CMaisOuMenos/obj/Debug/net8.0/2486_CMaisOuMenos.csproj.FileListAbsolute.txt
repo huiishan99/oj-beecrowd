@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2486_CMaisOuMenos\bin\Debug\net8.0\2486_CMaisOuMenos.exe
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2486_CMaisOuMenos\bin\Debug\net8.0\2486_CMaisOuMenos.deps.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2486_CMaisOuMenos\bin\Debug\net8.0\2486_CMaisOuMenos.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2486_CMaisOuMenos\bin\Debug\net8.0\2486_CMaisOuMenos.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2486_CMaisOuMenos\bin\Debug\net8.0\2486_CMaisOuMenos.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2486_CMaisOuMenos\obj\Debug\net8.0\2486_CMaisOuMenos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2486_CMaisOuMenos\obj\Debug\net8.0\2486_CMaisOuMenos.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2486_CMaisOuMenos\obj\Debug\net8.0\2486_CMaisOuMenos.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2486_CMaisOuMenos\obj\Debug\net8.0\2486_CMaisOuMenos.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2486_CMaisOuMenos\obj\Debug\net8.0\2486_CMaisOuMenos.sourcelink.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2486_CMaisOuMenos\obj\Debug\net8.0\2486_CMaisOuMenos.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2486_CMaisOuMenos\obj\Debug\net8.0\refint\2486_CMaisOuMenos.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2486_CMaisOuMenos\obj\Debug\net8.0\2486_CMaisOuMenos.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2486_CMaisOuMenos\obj\Debug\net8.0\2486_CMaisOuMenos.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2486_CMaisOuMenos\obj\Debug\net8.0\ref\2486_CMaisOuMenos.dll

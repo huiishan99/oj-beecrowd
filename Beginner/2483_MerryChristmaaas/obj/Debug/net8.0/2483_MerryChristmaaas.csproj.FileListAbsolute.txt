@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2483_MerryChristmaaas\bin\Debug\net8.0\2483_MerryChristmaaas.exe
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2483_MerryChristmaaas\bin\Debug\net8.0\2483_MerryChristmaaas.deps.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2483_MerryChristmaaas\bin\Debug\net8.0\2483_MerryChristmaaas.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2483_MerryChristmaaas\bin\Debug\net8.0\2483_MerryChristmaaas.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2483_MerryChristmaaas\bin\Debug\net8.0\2483_MerryChristmaaas.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2483_MerryChristmaaas\obj\Debug\net8.0\2483_MerryChristmaaas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2483_MerryChristmaaas\obj\Debug\net8.0\2483_MerryChristmaaas.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2483_MerryChristmaaas\obj\Debug\net8.0\2483_MerryChristmaaas.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2483_MerryChristmaaas\obj\Debug\net8.0\2483_MerryChristmaaas.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2483_MerryChristmaaas\obj\Debug\net8.0\2483_MerryChristmaaas.sourcelink.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2483_MerryChristmaaas\obj\Debug\net8.0\2483_MerryChristmaaas.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2483_MerryChristmaaas\obj\Debug\net8.0\refint\2483_MerryChristmaaas.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2483_MerryChristmaaas\obj\Debug\net8.0\2483_MerryChristmaaas.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2483_MerryChristmaaas\obj\Debug\net8.0\2483_MerryChristmaaas.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2483_MerryChristmaaas\obj\Debug\net8.0\ref\2483_MerryChristmaaas.dll

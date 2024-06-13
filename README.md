@@ -2,7 +2,7 @@ This is my C# code answer at [beecrowd](https://judge.beecrowd.com/en).
 
 You can [ClickHere](https://judge.beecrowd.com/en/users/statistics/1003590) to see my beecrowd profile. 
 
-## How To Use:
+### How To Use:
 
 Search the question's number by "Go to file"
 

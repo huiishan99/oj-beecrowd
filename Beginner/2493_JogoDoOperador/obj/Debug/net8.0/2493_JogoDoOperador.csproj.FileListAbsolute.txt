@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2493_JogoDoOperador\bin\Debug\net8.0\2493_JogoDoOperador.exe
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2493_JogoDoOperador\bin\Debug\net8.0\2493_JogoDoOperador.deps.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2493_JogoDoOperador\bin\Debug\net8.0\2493_JogoDoOperador.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2493_JogoDoOperador\bin\Debug\net8.0\2493_JogoDoOperador.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2493_JogoDoOperador\bin\Debug\net8.0\2493_JogoDoOperador.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2493_JogoDoOperador\obj\Debug\net8.0\2493_JogoDoOperador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2493_JogoDoOperador\obj\Debug\net8.0\2493_JogoDoOperador.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2493_JogoDoOperador\obj\Debug\net8.0\2493_JogoDoOperador.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2493_JogoDoOperador\obj\Debug\net8.0\2493_JogoDoOperador.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2493_JogoDoOperador\obj\Debug\net8.0\2493_JogoDoOperador.sourcelink.json
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2493_JogoDoOperador\obj\Debug\net8.0\2493_JogoDoOperador.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2493_JogoDoOperador\obj\Debug\net8.0\refint\2493_JogoDoOperador.dll
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2493_JogoDoOperador\obj\Debug\net8.0\2493_JogoDoOperador.pdb
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2493_JogoDoOperador\obj\Debug\net8.0\2493_JogoDoOperador.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\C-_Beecrowd\Beginner\2493_JogoDoOperador\obj\Debug\net8.0\ref\2493_JogoDoOperador.dll

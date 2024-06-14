@@ -6,7 +6,8 @@ You can [ClickHere](https://judge.beecrowd.com/en/users/statistics/1003590) to s
 
 Search the question's number by "Go to file"
 
-![Screenshot 2024-06-13 174034](https://github.com/huiishan99/C-_Beecrowd/assets/61934115/d5aff41e-30cb-49f8-9b08-06391ca37e0f)
+<img src="https://github.com/huiishan99/C-_Beecrowd/assets/61934115/d5aff41e-30cb-49f8-9b08-06391ca37e0f" alt="Screenshot" width="400">  
+
 
 Then, click the ``Program.cs`` file under the question's number with question's name file to see the code answer.
 

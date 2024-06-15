@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2520_TheLastAnalógimôn\bin\Debug\net8.0\2520_TheLastAnalógimôn.exe
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2520_TheLastAnalógimôn\bin\Debug\net8.0\2520_TheLastAnalógimôn.deps.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2520_TheLastAnalógimôn\bin\Debug\net8.0\2520_TheLastAnalógimôn.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2520_TheLastAnalógimôn\bin\Debug\net8.0\2520_TheLastAnalógimôn.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2520_TheLastAnalógimôn\bin\Debug\net8.0\2520_TheLastAnalógimôn.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2520_TheLastAnalógimôn\obj\Debug\net8.0\2520_TheLastAnalógimôn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2520_TheLastAnalógimôn\obj\Debug\net8.0\2520_TheLastAnalógimôn.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2520_TheLastAnalógimôn\obj\Debug\net8.0\2520_TheLastAnalógimôn.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2520_TheLastAnalógimôn\obj\Debug\net8.0\2520_TheLastAnalógimôn.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2520_TheLastAnalógimôn\obj\Debug\net8.0\2520_TheLastAnalógimôn.sourcelink.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2520_TheLastAnalógimôn\obj\Debug\net8.0\2520_TheLastAnalógimôn.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2520_TheLastAnalógimôn\obj\Debug\net8.0\refint\2520_TheLastAnalógimôn.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2520_TheLastAnalógimôn\obj\Debug\net8.0\2520_TheLastAnalógimôn.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2520_TheLastAnalógimôn\obj\Debug\net8.0\2520_TheLastAnalógimôn.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2520_TheLastAnalógimôn\obj\Debug\net8.0\ref\2520_TheLastAnalógimôn.dll

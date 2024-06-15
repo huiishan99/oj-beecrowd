@@ -4,8 +4,7 @@ You can [ClickHere](https://judge.beecrowd.com/en/users/statistics/1003590) to s
 
 ### How To Use:
 
-Search the question's number by "Go to file"
-
+Search the question's number by ``Go to file``.
 
 Then, click the ``Program.cs`` file under the question's number with question's name file to see the code answer.
 

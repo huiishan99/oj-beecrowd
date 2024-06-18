@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2552_CheeseBreadSweeper\bin\Debug\net8.0\2552_CheeseBreadSweeper.exe
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2552_CheeseBreadSweeper\bin\Debug\net8.0\2552_CheeseBreadSweeper.deps.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2552_CheeseBreadSweeper\bin\Debug\net8.0\2552_CheeseBreadSweeper.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2552_CheeseBreadSweeper\bin\Debug\net8.0\2552_CheeseBreadSweeper.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2552_CheeseBreadSweeper\bin\Debug\net8.0\2552_CheeseBreadSweeper.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2552_CheeseBreadSweeper\obj\Debug\net8.0\2552_CheeseBreadSweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2552_CheeseBreadSweeper\obj\Debug\net8.0\2552_CheeseBreadSweeper.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2552_CheeseBreadSweeper\obj\Debug\net8.0\2552_CheeseBreadSweeper.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2552_CheeseBreadSweeper\obj\Debug\net8.0\2552_CheeseBreadSweeper.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2552_CheeseBreadSweeper\obj\Debug\net8.0\2552_CheeseBreadSweeper.sourcelink.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2552_CheeseBreadSweeper\obj\Debug\net8.0\2552_CheeseBreadSweeper.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2552_CheeseBreadSweeper\obj\Debug\net8.0\refint\2552_CheeseBreadSweeper.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2552_CheeseBreadSweeper\obj\Debug\net8.0\2552_CheeseBreadSweeper.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2552_CheeseBreadSweeper\obj\Debug\net8.0\2552_CheeseBreadSweeper.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2552_CheeseBreadSweeper\obj\Debug\net8.0\ref\2552_CheeseBreadSweeper.dll

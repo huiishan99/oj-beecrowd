@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2542_Iu-Di-Oh\bin\Debug\net8.0\2542_Iu-Di-Oh.exe
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2542_Iu-Di-Oh\bin\Debug\net8.0\2542_Iu-Di-Oh.deps.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2542_Iu-Di-Oh\bin\Debug\net8.0\2542_Iu-Di-Oh.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2542_Iu-Di-Oh\bin\Debug\net8.0\2542_Iu-Di-Oh.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2542_Iu-Di-Oh\bin\Debug\net8.0\2542_Iu-Di-Oh.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2542_Iu-Di-Oh\obj\Debug\net8.0\2542_Iu-Di-Oh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2542_Iu-Di-Oh\obj\Debug\net8.0\2542_Iu-Di-Oh.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2542_Iu-Di-Oh\obj\Debug\net8.0\2542_Iu-Di-Oh.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2542_Iu-Di-Oh\obj\Debug\net8.0\2542_Iu-Di-Oh.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2542_Iu-Di-Oh\obj\Debug\net8.0\2542_Iu-Di-Oh.sourcelink.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2542_Iu-Di-Oh\obj\Debug\net8.0\2542_Iu-Di-Oh.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2542_Iu-Di-Oh\obj\Debug\net8.0\refint\2542_Iu-Di-Oh.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2542_Iu-Di-Oh\obj\Debug\net8.0\2542_Iu-Di-Oh.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2542_Iu-Di-Oh\obj\Debug\net8.0\2542_Iu-Di-Oh.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2542_Iu-Di-Oh\obj\Debug\net8.0\ref\2542_Iu-Di-Oh.dll

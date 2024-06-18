@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2582_SystemOfADownload\bin\Debug\net8.0\2582_SystemOfADownload.exe
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2582_SystemOfADownload\bin\Debug\net8.0\2582_SystemOfADownload.deps.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2582_SystemOfADownload\bin\Debug\net8.0\2582_SystemOfADownload.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2582_SystemOfADownload\bin\Debug\net8.0\2582_SystemOfADownload.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2582_SystemOfADownload\bin\Debug\net8.0\2582_SystemOfADownload.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2582_SystemOfADownload\obj\Debug\net8.0\2582_SystemOfADownload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2582_SystemOfADownload\obj\Debug\net8.0\2582_SystemOfADownload.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2582_SystemOfADownload\obj\Debug\net8.0\2582_SystemOfADownload.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2582_SystemOfADownload\obj\Debug\net8.0\2582_SystemOfADownload.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2582_SystemOfADownload\obj\Debug\net8.0\2582_SystemOfADownload.sourcelink.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2582_SystemOfADownload\obj\Debug\net8.0\2582_SystemOfADownload.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2582_SystemOfADownload\obj\Debug\net8.0\refint\2582_SystemOfADownload.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2582_SystemOfADownload\obj\Debug\net8.0\2582_SystemOfADownload.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2582_SystemOfADownload\obj\Debug\net8.0\2582_SystemOfADownload.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2582_SystemOfADownload\obj\Debug\net8.0\ref\2582_SystemOfADownload.dll

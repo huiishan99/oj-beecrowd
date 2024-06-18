@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2630_Greyscale\bin\Debug\net8.0\2630_Greyscale.exe
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2630_Greyscale\bin\Debug\net8.0\2630_Greyscale.deps.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2630_Greyscale\bin\Debug\net8.0\2630_Greyscale.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2630_Greyscale\bin\Debug\net8.0\2630_Greyscale.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2630_Greyscale\bin\Debug\net8.0\2630_Greyscale.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2630_Greyscale\obj\Debug\net8.0\2630_Greyscale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2630_Greyscale\obj\Debug\net8.0\2630_Greyscale.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2630_Greyscale\obj\Debug\net8.0\2630_Greyscale.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2630_Greyscale\obj\Debug\net8.0\2630_Greyscale.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2630_Greyscale\obj\Debug\net8.0\2630_Greyscale.sourcelink.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2630_Greyscale\obj\Debug\net8.0\2630_Greyscale.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2630_Greyscale\obj\Debug\net8.0\refint\2630_Greyscale.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2630_Greyscale\obj\Debug\net8.0\2630_Greyscale.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2630_Greyscale\obj\Debug\net8.0\2630_Greyscale.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2630_Greyscale\obj\Debug\net8.0\ref\2630_Greyscale.dll

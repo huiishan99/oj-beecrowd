@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2542_Iu-Di-Oh/1.0.0": {
+        "runtime": {
+          "2542_Iu-Di-Oh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2542_Iu-Di-Oh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

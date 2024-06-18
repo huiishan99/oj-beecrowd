@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2626_JB6Team/1.0.0": {
+        "runtime": {
+          "2626_JB6Team.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2626_JB6Team/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

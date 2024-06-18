@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2554_PizzaBeforeBH\bin\Debug\net8.0\2554_PizzaBeforeBH.exe
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2554_PizzaBeforeBH\bin\Debug\net8.0\2554_PizzaBeforeBH.deps.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2554_PizzaBeforeBH\bin\Debug\net8.0\2554_PizzaBeforeBH.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2554_PizzaBeforeBH\bin\Debug\net8.0\2554_PizzaBeforeBH.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2554_PizzaBeforeBH\bin\Debug\net8.0\2554_PizzaBeforeBH.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2554_PizzaBeforeBH\obj\Debug\net8.0\2554_PizzaBeforeBH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2554_PizzaBeforeBH\obj\Debug\net8.0\2554_PizzaBeforeBH.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2554_PizzaBeforeBH\obj\Debug\net8.0\2554_PizzaBeforeBH.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2554_PizzaBeforeBH\obj\Debug\net8.0\2554_PizzaBeforeBH.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2554_PizzaBeforeBH\obj\Debug\net8.0\2554_PizzaBeforeBH.sourcelink.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2554_PizzaBeforeBH\obj\Debug\net8.0\2554_PizzaBeforeBH.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2554_PizzaBeforeBH\obj\Debug\net8.0\refint\2554_PizzaBeforeBH.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2554_PizzaBeforeBH\obj\Debug\net8.0\2554_PizzaBeforeBH.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2554_PizzaBeforeBH\obj\Debug\net8.0\2554_PizzaBeforeBH.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2554_PizzaBeforeBH\obj\Debug\net8.0\ref\2554_PizzaBeforeBH.dll

@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2626_JB6Team\bin\Debug\net8.0\2626_JB6Team.exe
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2626_JB6Team\bin\Debug\net8.0\2626_JB6Team.deps.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2626_JB6Team\bin\Debug\net8.0\2626_JB6Team.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2626_JB6Team\bin\Debug\net8.0\2626_JB6Team.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2626_JB6Team\bin\Debug\net8.0\2626_JB6Team.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2626_JB6Team\obj\Debug\net8.0\2626_JB6Team.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2626_JB6Team\obj\Debug\net8.0\2626_JB6Team.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2626_JB6Team\obj\Debug\net8.0\2626_JB6Team.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2626_JB6Team\obj\Debug\net8.0\2626_JB6Team.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2626_JB6Team\obj\Debug\net8.0\2626_JB6Team.sourcelink.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2626_JB6Team\obj\Debug\net8.0\2626_JB6Team.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2626_JB6Team\obj\Debug\net8.0\refint\2626_JB6Team.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2626_JB6Team\obj\Debug\net8.0\2626_JB6Team.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2626_JB6Team\obj\Debug\net8.0\2626_JB6Team.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2626_JB6Team\obj\Debug\net8.0\ref\2626_JB6Team.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2632_MagicAndSword")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2c74f4f9ef49ab17a52fddd24e98f4f4c005b70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f59edca38273095cf758ee9d6710f96aeea6a85e")]
 [assembly: System.Reflection.AssemblyProductAttribute("2632_MagicAndSword")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2632_MagicAndSword")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

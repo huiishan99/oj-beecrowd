@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2686_TheChangeContinues\bin\Debug\net8.0\2686_TheChangeContinues.exe
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2686_TheChangeContinues\bin\Debug\net8.0\2686_TheChangeContinues.deps.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2686_TheChangeContinues\bin\Debug\net8.0\2686_TheChangeContinues.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2686_TheChangeContinues\bin\Debug\net8.0\2686_TheChangeContinues.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2686_TheChangeContinues\bin\Debug\net8.0\2686_TheChangeContinues.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2686_TheChangeContinues\obj\Debug\net8.0\2686_TheChangeContinues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2686_TheChangeContinues\obj\Debug\net8.0\2686_TheChangeContinues.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2686_TheChangeContinues\obj\Debug\net8.0\2686_TheChangeContinues.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2686_TheChangeContinues\obj\Debug\net8.0\2686_TheChangeContinues.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2686_TheChangeContinues\obj\Debug\net8.0\2686_TheChangeContinues.sourcelink.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2686_TheChangeContinues\obj\Debug\net8.0\2686_TheChangeContinues.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2686_TheChangeContinues\obj\Debug\net8.0\refint\2686_TheChangeContinues.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2686_TheChangeContinues\obj\Debug\net8.0\2686_TheChangeContinues.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2686_TheChangeContinues\obj\Debug\net8.0\2686_TheChangeContinues.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2686_TheChangeContinues\obj\Debug\net8.0\ref\2686_TheChangeContinues.dll

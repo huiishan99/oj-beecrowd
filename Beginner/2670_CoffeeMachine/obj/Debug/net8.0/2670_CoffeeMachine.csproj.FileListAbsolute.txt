@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2670_CoffeeMachine\bin\Debug\net8.0\2670_CoffeeMachine.exe
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2670_CoffeeMachine\bin\Debug\net8.0\2670_CoffeeMachine.deps.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2670_CoffeeMachine\bin\Debug\net8.0\2670_CoffeeMachine.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2670_CoffeeMachine\bin\Debug\net8.0\2670_CoffeeMachine.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2670_CoffeeMachine\bin\Debug\net8.0\2670_CoffeeMachine.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2670_CoffeeMachine\obj\Debug\net8.0\2670_CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2670_CoffeeMachine\obj\Debug\net8.0\2670_CoffeeMachine.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2670_CoffeeMachine\obj\Debug\net8.0\2670_CoffeeMachine.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2670_CoffeeMachine\obj\Debug\net8.0\2670_CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2670_CoffeeMachine\obj\Debug\net8.0\2670_CoffeeMachine.sourcelink.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2670_CoffeeMachine\obj\Debug\net8.0\2670_CoffeeMachine.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2670_CoffeeMachine\obj\Debug\net8.0\refint\2670_CoffeeMachine.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2670_CoffeeMachine\obj\Debug\net8.0\2670_CoffeeMachine.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2670_CoffeeMachine\obj\Debug\net8.0\2670_CoffeeMachine.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2670_CoffeeMachine\obj\Debug\net8.0\ref\2670_CoffeeMachine.dll

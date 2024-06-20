@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2702_HardChoice\bin\Debug\net8.0\2702_HardChoice.exe
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2702_HardChoice\bin\Debug\net8.0\2702_HardChoice.deps.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2702_HardChoice\bin\Debug\net8.0\2702_HardChoice.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2702_HardChoice\bin\Debug\net8.0\2702_HardChoice.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2702_HardChoice\bin\Debug\net8.0\2702_HardChoice.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2702_HardChoice\obj\Debug\net8.0\2702_HardChoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2702_HardChoice\obj\Debug\net8.0\2702_HardChoice.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2702_HardChoice\obj\Debug\net8.0\2702_HardChoice.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2702_HardChoice\obj\Debug\net8.0\2702_HardChoice.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2702_HardChoice\obj\Debug\net8.0\2702_HardChoice.sourcelink.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2702_HardChoice\obj\Debug\net8.0\2702_HardChoice.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2702_HardChoice\obj\Debug\net8.0\refint\2702_HardChoice.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2702_HardChoice\obj\Debug\net8.0\2702_HardChoice.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2702_HardChoice\obj\Debug\net8.0\2702_HardChoice.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2702_HardChoice\obj\Debug\net8.0\ref\2702_HardChoice.dll

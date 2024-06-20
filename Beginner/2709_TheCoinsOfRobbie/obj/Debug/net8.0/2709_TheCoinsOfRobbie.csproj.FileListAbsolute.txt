@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2709_TheCoinsOfRobbie\bin\Debug\net8.0\2709_TheCoinsOfRobbie.exe
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2709_TheCoinsOfRobbie\bin\Debug\net8.0\2709_TheCoinsOfRobbie.deps.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2709_TheCoinsOfRobbie\bin\Debug\net8.0\2709_TheCoinsOfRobbie.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2709_TheCoinsOfRobbie\bin\Debug\net8.0\2709_TheCoinsOfRobbie.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2709_TheCoinsOfRobbie\bin\Debug\net8.0\2709_TheCoinsOfRobbie.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2709_TheCoinsOfRobbie\obj\Debug\net8.0\2709_TheCoinsOfRobbie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2709_TheCoinsOfRobbie\obj\Debug\net8.0\2709_TheCoinsOfRobbie.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2709_TheCoinsOfRobbie\obj\Debug\net8.0\2709_TheCoinsOfRobbie.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2709_TheCoinsOfRobbie\obj\Debug\net8.0\2709_TheCoinsOfRobbie.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2709_TheCoinsOfRobbie\obj\Debug\net8.0\2709_TheCoinsOfRobbie.sourcelink.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2709_TheCoinsOfRobbie\obj\Debug\net8.0\2709_TheCoinsOfRobbie.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2709_TheCoinsOfRobbie\obj\Debug\net8.0\refint\2709_TheCoinsOfRobbie.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2709_TheCoinsOfRobbie\obj\Debug\net8.0\2709_TheCoinsOfRobbie.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2709_TheCoinsOfRobbie\obj\Debug\net8.0\2709_TheCoinsOfRobbie.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2709_TheCoinsOfRobbie\obj\Debug\net8.0\ref\2709_TheCoinsOfRobbie.dll

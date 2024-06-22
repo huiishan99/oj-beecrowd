@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2712_VehicularRestriction\bin\Debug\net8.0\2712_VehicularRestriction.exe
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2712_VehicularRestriction\bin\Debug\net8.0\2712_VehicularRestriction.deps.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2712_VehicularRestriction\bin\Debug\net8.0\2712_VehicularRestriction.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2712_VehicularRestriction\bin\Debug\net8.0\2712_VehicularRestriction.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2712_VehicularRestriction\bin\Debug\net8.0\2712_VehicularRestriction.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2712_VehicularRestriction\obj\Debug\net8.0\2712_VehicularRestriction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2712_VehicularRestriction\obj\Debug\net8.0\2712_VehicularRestriction.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2712_VehicularRestriction\obj\Debug\net8.0\2712_VehicularRestriction.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2712_VehicularRestriction\obj\Debug\net8.0\2712_VehicularRestriction.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2712_VehicularRestriction\obj\Debug\net8.0\2712_VehicularRestriction.sourcelink.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2712_VehicularRestriction\obj\Debug\net8.0\2712_VehicularRestriction.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2712_VehicularRestriction\obj\Debug\net8.0\refint\2712_VehicularRestriction.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2712_VehicularRestriction\obj\Debug\net8.0\2712_VehicularRestriction.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2712_VehicularRestriction\obj\Debug\net8.0\2712_VehicularRestriction.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2712_VehicularRestriction\obj\Debug\net8.0\ref\2712_VehicularRestriction.dll

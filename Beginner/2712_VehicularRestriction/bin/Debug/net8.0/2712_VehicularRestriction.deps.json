@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2712_VehicularRestriction/1.0.0": {
+        "runtime": {
+          "2712_VehicularRestriction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2712_VehicularRestriction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

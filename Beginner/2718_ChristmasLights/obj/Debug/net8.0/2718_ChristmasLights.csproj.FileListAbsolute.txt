@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2718_ChristmasLights\bin\Debug\net8.0\2718_ChristmasLights.exe
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2718_ChristmasLights\bin\Debug\net8.0\2718_ChristmasLights.deps.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2718_ChristmasLights\bin\Debug\net8.0\2718_ChristmasLights.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2718_ChristmasLights\bin\Debug\net8.0\2718_ChristmasLights.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2718_ChristmasLights\bin\Debug\net8.0\2718_ChristmasLights.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2718_ChristmasLights\obj\Debug\net8.0\2718_ChristmasLights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2718_ChristmasLights\obj\Debug\net8.0\2718_ChristmasLights.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2718_ChristmasLights\obj\Debug\net8.0\2718_ChristmasLights.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2718_ChristmasLights\obj\Debug\net8.0\2718_ChristmasLights.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2718_ChristmasLights\obj\Debug\net8.0\2718_ChristmasLights.sourcelink.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2718_ChristmasLights\obj\Debug\net8.0\2718_ChristmasLights.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2718_ChristmasLights\obj\Debug\net8.0\refint\2718_ChristmasLights.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2718_ChristmasLights\obj\Debug\net8.0\2718_ChristmasLights.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2718_ChristmasLights\obj\Debug\net8.0\2718_ChristmasLights.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2718_ChristmasLights\obj\Debug\net8.0\ref\2718_ChristmasLights.dll

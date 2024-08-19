@@ -1,0 +1,15 @@
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2747_Output1\obj\Debug\net8.0\2747_Output1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2747_Output1\obj\Debug\net8.0\2747_Output1.AssemblyInfoInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2747_Output1\obj\Debug\net8.0\2747_Output1.AssemblyInfo.cs
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2747_Output1\obj\Debug\net8.0\2747_Output1.csproj.CoreCompileInputs.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2747_Output1\obj\Debug\net8.0\2747_Output1.sourcelink.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2747_Output1\bin\Debug\net8.0\2747_Output1.exe
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2747_Output1\bin\Debug\net8.0\2747_Output1.deps.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2747_Output1\bin\Debug\net8.0\2747_Output1.runtimeconfig.json
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2747_Output1\bin\Debug\net8.0\2747_Output1.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2747_Output1\bin\Debug\net8.0\2747_Output1.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2747_Output1\obj\Debug\net8.0\2747_Output1.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2747_Output1\obj\Debug\net8.0\refint\2747_Output1.dll
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2747_Output1\obj\Debug\net8.0\2747_Output1.pdb
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2747_Output1\obj\Debug\net8.0\2747_Output1.genruntimeconfig.cache
+C:\Users\huiis\Documents\GitHub\Code_Beecrowd\Beginner\2747_Output1\obj\Debug\net8.0\ref\2747_Output1.dll
